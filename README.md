@@ -37,7 +37,7 @@
 - **论文地址**: 在审
 
 
-#### [GeoDeepGenerativePrior](hhttps://github.com/QUST-SmartData/GeoDeepGenerativePrior)
+#### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
 - **方向**：测井图像修复
 
