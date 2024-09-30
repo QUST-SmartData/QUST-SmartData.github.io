@@ -56,7 +56,7 @@
 
 - **论文方向**: 3D重建
 
-- **论文标题**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed :A Novel Integrated Model of RVION with ADA-PGGAN*
+- **论文标题**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN*
 
 - **论文简介**: 我们基于生成模型GAN提出了一种新颖的特征分布学习和自适应数据增强框架，成功地在数据稀缺环境中重建高质量的大规模 3D 数字岩石，并通过多种指标验证了其准确性和一致性。
 
@@ -84,7 +84,7 @@
 
 - **论文方向**: 3D矿物分割
 
-- **论文标题**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished : AttentionGAN-Swin-Transformer Fused Network*
+- **论文标题**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network*
 
 - **论文简介**: 我们提出的 DTSS 工作流结合了 AttentionGAN 和 Swin Transformer，通过有效的域转换和图像分割，实现了对复杂岩石图像中矿物特征的精准识别。
 
@@ -126,7 +126,7 @@
 
 - **论文方向**: 2D超分辨
 
-- **论文标题**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties.*
+- **论文标题**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties*
 
 - **论文简介**: 我们提出了一种基于生成对抗网络的超分辨率方法，结合语义共享机制和模糊噪声，以改善孔壁特征的恢复，克服传统方法在处理低分辨率图像时的局限性，从而提高模型在复杂地质特征下的泛化能力。
 
