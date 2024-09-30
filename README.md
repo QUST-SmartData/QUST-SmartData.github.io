@@ -27,6 +27,68 @@
 
 <div align="center">
 
+<table style="border: none; table-layout: fixed; width: 100%;">
+  <tr>
+    <td style="border: none; text-align: center;">
+      <img src="team-members/Xin%20Wang.jpg" width="100"/><br>
+      Xin Wang  
+      <br> 
+      Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing，computer vision & artificial intelligence.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table style="border: none; table-layout: fixed; width: 100%;">
+  <tr>
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="team-members/Zhaoyan Zhong.jpg" width="100"/><br>
+      Zhaoyan Zhong <br> 测井图像修复
+    </td>
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="team-members/Qijie Huang.jpg" width="100"/><br>
+      Qijie Huang <br> 矿物分割
+    </td>
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="team-members/Xiangxin Zhao.jpg" width="100"/><br>
+      Xiangxin Zhao <br> 裂缝分割
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table style="border: none; table-layout: fixed; width: 100%;">
+  <tr>
+    <td style="border: none; text-align: center; width: 20%;">
+      <img src="team-members/Xintao Mu.jpg" width="100"/><br>
+      Xintao Mu <br> 多模态医学图像修复
+    </td>
+    <td style="border: none; text-align: center; width: 20%;">
+      <img src="team-members/Yanxia Liu.jpg" width="100"/><br>
+      Yanxia Liu <br> 3D重建
+    </td>
+    <td style="border: none; text-align: center; width: 20%;">
+      <img src="team-members/Yingqi Zhang.jpg" width="100"/><br>
+      Yingqi Zhang <br> 3D重建
+    </td>
+    <td style="border: none; text-align: center; width: 20%;">
+      <img src="team-members/Liguo Niu.jpg" width="100"/><br>
+      Liguo Niu <br> 3D超分辨
+    </td>
+    <td style="border: none; text-align: center; width: 20%;">
+      <img src="team-members/Xuefeng Gui.jpg" width="100"/><br>
+      Xuefeng Gui <br> 工业缺陷检测
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<!-- <div align="center">
+
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
 | **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing，computer vision & artificial intelligence.   |
@@ -43,7 +105,7 @@
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 |
 
-</div>
+</div> -->
 
 
 <!-- <div align="center">
