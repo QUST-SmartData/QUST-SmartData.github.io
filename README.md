@@ -72,7 +72,7 @@
 
 
 
-#### [HQJGAN](https://github.com/QUST-SmartData/HQJGAN)
+#### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
 - **论文方向**：3D矿物分割
 
