@@ -26,7 +26,7 @@
 
 #### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
-- **论文方向**：测井图像修复
+- **论文方向**：电测井图像修复
 
 - **论文标题**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
 
@@ -38,7 +38,7 @@
 
 #### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
 
-- **论文方向**：测井图像修复
+- **论文方向**：电测井图像修复
 
 - **论文标题**: *Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN*
 
@@ -52,7 +52,7 @@
 
 - **论文方向**：3D重建
 
-- **论文标题**: *Multi-scale Reconstruction of 3D Digital Rock by Fusing Critical Information of Fine Scale with Framework of Large Scale: A Novel Approach*
+- **论文标题**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed :A Novel Integrated Model of RVION with ADA-PGGAN*
 
 - **论文简介**: 我们基于生成模型GAN提出了一种新颖的特征分布学习和自适应数据增强框架，成功地在数据稀缺环境中重建高质量的大规模 3D 数字岩石，并通过多种指标验证了其准确性和一致性。
 
