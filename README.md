@@ -157,11 +157,12 @@
 <p>
   <img width="30%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="30%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+  <img width="30%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
+  
   <br />
+  <img width="30%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
   <img width="30%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
   <img width="30%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
   <br />
   <img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
