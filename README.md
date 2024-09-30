@@ -47,28 +47,6 @@
 </div>
 
 
-<!-- <div align="center">
-
-<img src="team-members/Xin%20Wang.jpg" width="100"/>
-
-**Xin Wang**  
-Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing，computer vision & artificial intelligence. 
-
-
-<br>
-
-<img src="team-members/Zhaoyan Zhong.jpg" width="100"/> <img src="team-members/Qijie Huang.jpg" width="100"/> <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  
-**Zhaoyan Zhong**  **Qijie Huang**  **Xiangxin Zhao**  
-测井图像修复  矿物分割  裂缝分割  
-
-<br>
-
-<img src="team-members/Xintao Mu.jpg" width="100"/> <img src="team-members/Yanxia Liu.jpg" width="100"/> <img src="team-members/Yingqi Zhang.jpg" width="100"/> <img src="team-members/Liguo Niu.jpg" width="100"/> <img src="team-members/Xuefeng Gui.jpg" width="100"/>   
-**Xintao Mu**  **Yanxia Liu**  **Yingqi Zhang**  **Liguo Niu**  **Xuefeng Gui**  
-多模态医学图像修复 3D重建 3D重建 3D超分辨 工业缺陷检测
-</div> -->
-
-
 
 ## 仓库介绍
 
