@@ -2,9 +2,15 @@
 
 <div align=center><img src ="logo.jpg"/></div>
 
+<br/>
+
+<div align=center>
+
 欢迎来到我们的GitHub团队主页！
 
 我们团队致力于推动地质和医学等领域的图像分析研究，通过深度学习和计算机视觉技术解决实际问题。
+</div>
+
 
 
 ## 研究方向
