@@ -139,7 +139,7 @@
 
 #### [SemSR](https://github.com/QUST-SmartData/SemSR)
 
-- **论文标题**: *Connectivity-Aware 3D Fracture Segmentation Method for Core CT Images*
+- **论文标题**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties.*
 
 - **简介**: 我们提出了一种基于生成对抗网络的超分辨率方法，结合语义共享机制和模糊噪声，以改善孔壁特征的恢复，克服传统方法在处理低分辨率图像时的局限性，从而提高模型在复杂地质特征下的泛化能力。
 
