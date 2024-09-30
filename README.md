@@ -25,13 +25,13 @@
 
 - **方向**：测井图像修复
 
-- **论文标题**: *todo*
+- **论文标题**: *Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN*
 
-- **简介**: todo
+- **简介**: 我们提出了一种深度学习方法，通过伪标签训练、透视增强模块和SM-Unet鉴别器，有效修复测井图像中的缺失区域，尤其提高了高角度裂缝和细粒纹理特征的重建质量，同时降低了计算成本。
 
 - <details>
     <summary>论文摘要</summary>
-    todo
+    In the process of geophysical exploration, the logging image is incomplete due to the mismatch between the size of the logging instrument and the size of the borehole. The missing data will seriously affect the geologic analysis. However, due to the situation of lacking complete images as training labels, existing methods are generally based on usually used algorithms or unsupervised learning methods, which bring abundant computation and time-consuming. In addition, the results match not very well as high-angle fractures appeared a lot and also the fine-grained texture in the inpainted regions. It significantly affects the discrimination of the interpretation for geological phenomena. To solve the aboved problem, we propose a deep learning method to inpaint strati-graphic features. First, to conduct the consuming time and according to the issues of less labels for training, we proposed a new method with pseudo-labeled training datasets in the inpainting process. Second, in order to improve the accuracy of inpainting to high-angle fractures, we also proposed a Fusion-Perspective-Enhancement Module (FPEM), which can effectively infer the missing regions based on the contextual guidance. Finally, to better describe the fine-grained texture, we proposed a new discriminator called SM-Unet, which help enhancing much more textured features highlighting to the fine-grained, the new discriminator can adjust the weight of various regions through producing soft labeling during the training procedure. The Peak Signal-to-Noise Ratio of the proposed algorithm in the logging image dataset is 25.35, the highest Structural Similarity Index is 0.901. Compared to the state-of-the-art methods, the proposed method shows good results matching very well especially for high-angle fractures and fine-grained textured features, and costs less computation.
 </details>
 
 - **论文地址**: 在审
@@ -41,16 +41,16 @@
 
 - **方向**：测井图像修复
 
-- **论文标题**: *todo*
+- **论文标题**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
 
-- **简介**: todo
+- **简介**: 我们提出了一种深度学习方法，利用生成对抗网络（GAN）和特征提取融合模块，增强测井图像修复的连续性和完整性，有效提取裂缝、砾石结构和细粒纹理特征，从而提升地质构造分析的准确性和鲁棒性。
 
 - <details>
     <summary>论文摘要</summary>
-    todo
+    During geophysical exploration, inpainting defective logging images caused by mismatches between logging tools and borehole sizes can affect fracture and hole extraction, petrographic analysis and stratigraphic studies. However, existing methods do not describe stratigraphic continuity enough. Also, they ignore the completeness of characterization in terms of fractures, gravel structures, and fine-grained textures in the logging images. To address these issues, we propose a deep learning method for inpainting stratigraphic features. Firstly, to enhance the continuity of image inpainting, we build a generative adversarial network (GAN) and train it on numerous natural images to extract relevant features that guide the recovery of continuity characteristics. Secondly, to ensure complete structural and textural features are present in geological formations, we introduce a feature-extraction-fusion module with a co-occurrence mechanism consisting of channel attention(CA) and self-attention(SA). CA improves texture effects by adaptively adjusting control parameters based on highly correlated prior features from electrical logging images. SA captures long-range contextual associations across pre-inpainted gaps to improve completeness in fractures and gravels structure representation. The proposed method has been tested on various borehole images demonstrating its reliability and robustness.
 </details>
 
-- **论文地址**: 在审
+- **论文地址**: [paper](https://doi.org/10.1190/geo2023-0418.1)
 
 
 #### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
