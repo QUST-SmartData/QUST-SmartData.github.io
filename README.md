@@ -1,6 +1,6 @@
 # SmartData
 
-![logo](logo.jpg)
+<div align=center><img src ="logo.jpg"/></div>
 
 欢迎来到我们的GitHub团队主页！
 
