@@ -187,7 +187,7 @@
 
 - **论文期刊**: `Biomedical Signal Processing and Control, 中科院SCI 2 区`
 
-- **论文状态**: `Decision in Process`
+- **论文状态**: `Accept`
 
 
 
