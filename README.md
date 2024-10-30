@@ -21,6 +21,7 @@
 - 🤖 机器学习
 - 🌍 地质学图像分析
 - 🏥 医学图像分析
+- ⚙️ AI技术的工业界应用
 
 
 ## 团队成员
@@ -97,7 +98,7 @@
 
 - **论文期刊**: `COMPUTERS & GEOSCIENCES, 中科院SCI 2 区`
 
-- **论文状态**: `With the Editor`
+- **论文状态**: `Under Review`
 
 
 
@@ -109,7 +110,7 @@
 
 - **论文简介**: 我们提出了一种新的生成模型框架，通过两个网络整合粗尺度和精细尺度信息，有效地建模多孔介质的多尺度结构，提升了数字岩石的重建效率和实用性。
 
-- **论文期刊**: `Applied Intelligence, 中科院SCI 2 区`
+- **论文期刊**: `COMPUTERS & GEOSCIENCES, 中科院SCI 2 区`
 
 - **论文状态**: `With the Editor`
 
@@ -137,9 +138,9 @@
 
 - **论文简介**: 我们提出了一种基于无监督域适应的页岩裂缝自适应分割方法，结合风格迁移和协作学习，提高了在不同地质来源的岩心 CT 图像中裂缝分割的准确性和鲁棒性。
 
-- **论文期刊**: `Applied Intelligence, 中科院SCI 2 区`
+- **论文期刊**: `Expert Systems With Applications, 中科院SCI 1 区 (TOP)`
 
-- **论文状态**: `Submitted`
+- **论文状态**: `Revise`
 
 
 
@@ -151,9 +152,9 @@
 
 - **论文简介**: 我们提出了一种新的 3D 岩心 CT 图像裂缝分割方法，利用 3D 多层 Transformer 网络捕获远程依赖和空间连续性特征，并结合动态权重和多尺度上下文感知融合，显著提升了对裂缝空间结构连通性的识别效果。
 
-- **论文期刊**: `Expert Systems With Applications, 中科院SCI 1 区 (TOP)`
+- **论文期刊**: `Engineering Applications of Artificial Intelligence, 中科院SCI 2 区 (TOP)`
 
-- **论文状态**: `Required Reviews Completed`
+- **论文状态**: `Submitted to Journal`
 
 
 
@@ -187,7 +188,8 @@
 
 - **论文期刊**: `Biomedical Signal Processing and Control, 中科院SCI 2 区`
 
-- **论文状态**: `Accept`
+- **论文地址**: [paper](https://doi.org/10.1016/j.bspc.2024.107018)
+
 
 
 
@@ -200,10 +202,29 @@
 
 - **论文简介**: 我们提出了一种改进的双流并行嵌入网络，通过分阶段进行结构重建和纹理重建，利用FSTI Block实现结构和纹理信息的全局一致性，增强上下文推理能力，从而提高图像的修复质量，有效解决不良结构和纹理信息对修复结果的影响。
 
-- **论文期刊**: `IEEE Transactions on Medical Imaging, 中科院SCI 1 区`
+- **论文期刊**: `IEEE Transactions on Medical Imaging, 中科院SCI 1 区 (TOP)`
 
 - **论文状态**: `Waiting for submission`
 
+
+
+### 工业界应用
+该分类包含与AI模型相关的工业界应用项目，专注于过程自动化、创新驱动解决方案和客户体验增强。
+
+#### [基于AI的市政设计软件辅助系统]()
+
+- **项目介绍**: 
+本项目旨在于现有市政设计软件基础上，引入人工智能技术以实现市政设计任务中的智能绘图功能，从而提高市政设计的效率和精准度。项目包括进行详细的需求分析、引入适用的AI技术、对AI模型的研究和训练、软件的开发与集成、以及项目总结和成果验收。
+
+- **功能目标**: 
+  - 路口识别与智能分图：通过AI技术，精准识别设计图中的路口，从而进行合理分图。
+  - 图框批量化替换：简化人工图框替换流程，提高工作效率。
+  - 文本输入自动化：自动化处理文本输入工作，减少人工操作耗时。
+  - 批量化打印：实现设计图纸的批量打印，进一步提高工作效率。
+
+- **成果展示**：
+
+  ![成果展示](https://github.com/QUST-SmartData/AICAD/blob/main/img/1.png)
 
 
 
