@@ -31,7 +31,7 @@
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing，computer vision & artificial intelligence.   |
+| **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
 
 <br>
 
@@ -41,13 +41,25 @@
 
 <br>
 
-| <img src="team-members/Xintao Mu.jpg" width="100"/> | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/> | <img src="team-members/Xuefeng Gui.jpg" width="100"/> |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 |
+
+| <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.png" width="100"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 | **Shuyang Fan** <br> 多孔介质生成 |
+
 
 <br>
 
 <img src="team-members/teams.jpg" width="600"/>
+
+<br>
+
+<img src="team-members/welcome.png" width="600"/>
+
+| <img src="team-members/Jia Wang.png" width="100"/> | <img src="team-members/Jiawei Li.png" width="100"/> | <img src="team-members/Jialu Chen.png" width="100"/> | <img src="team-members/Lidong Zhou.png" width="100"/> | <img src="team-members/Yang Li.png" width="100"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** |
+
+<br>
 
 </div>
 
