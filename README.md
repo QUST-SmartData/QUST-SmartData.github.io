@@ -67,7 +67,7 @@
 
 | <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Jia Wang** | **Jiawei Li** |
+| **Ruixi Jing** | **Fuzhi Wan** |
 
 </div>
 
