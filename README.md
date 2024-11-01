@@ -42,7 +42,7 @@
 <br>
 
 
-| <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.png" width="100"/> |
+| <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 | **Shuyang Fan** <br> 多孔介质生成 |
 
@@ -55,9 +55,11 @@
 
 <img src="team-members/welcome.png" width="600"/>
 
-| <img src="team-members/Jia Wang.png" width="100"/> | <img src="team-members/Jiawei Li.png" width="100"/> | <img src="team-members/Jialu Chen.png" width="100"/> | <img src="team-members/Lidong Zhou.png" width="100"/> | <img src="team-members/Yang Li.png" width="100"/> |
+2024届
+
+| <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** |
+| **Jia Wang** <br> 人工智能 | **Jiawei Li** <br> 人工智能 | **Jialu Chen** <br> 人工智能 | **Lidong Zhou** <br> 人工智能 | **Yang Li** <br> 人工智能 |
 
 <br>
 
@@ -183,6 +185,17 @@
 - **论文状态**: `Under Review`
 
 
+#### [MLDM](https://github.com/QUST-SmartData/)
+
+- **论文方向**: 多孔介质微结构生成
+
+- **论文标题**: *Generation of Porous Micro-structure Based on Diffusion Model*
+
+- **论文简介**: 我们提出了一种改进的扩散模型网络，通过分阶段进行结构重建和结构生成，利用自编码器的降维能力和扩散模型丰富的生成能力，降低扩散建模多样本的分辨率的同时，生成丰富的多孔结构。
+
+- **论文期刊**: `pending`
+
+- **论文状态**: `Manuscript Drafting`
 
 
 
@@ -218,6 +231,20 @@
 
 - **论文状态**: `Waiting for submission`
 
+
+
+#### [CLECC](https://github.com/QUST-SmartData/)
+
+
+- **论文方向**: 医学超声图像分类
+
+- **论文标题**: *Application of a course learning strategy based on structural prior and Ebbinghaus forgetting curve for ultrasound gallbladder lesion classification*
+
+- **论文简介**: 在超声图像中，由于胆囊组织与周围软组织在纹理特征上的高度相似性，传统的深度学习模型在胆囊病变的分类任务中面临挑战。为了解决这一问题，本文提出了一种结合结构先验和艾宾浩斯遗忘曲线的课程学习训练策略。从人类视觉敏锐度的发展启发，我们使用相对总变差（RTV）方法提取图像的结构先验，替代传统的高斯模糊处理，更有效地分离纹理和结构信息，引导模型关注关键的解剖结构特征。同时，基于艾宾浩斯遗忘曲线设计了课程学习策略，优化模型的学习过程，提升其对关键特征的记忆和判别能力。实验结果表明，该方法在提高胆囊病变分类的准确率和鲁棒性方面取得了显著的效果，为超声图像的自动诊断提供了有力支持。
+
+- **论文期刊**: `IEEE Transactions on Medical Imaging, 中科院SCI 1 区 (TOP)`
+
+- **论文状态**: `Waiting for submission`
 
 
 ### 工业界应用
