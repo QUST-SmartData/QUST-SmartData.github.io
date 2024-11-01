@@ -55,13 +55,19 @@
 
 <img src="team-members/welcome.png" width="600"/>
 
-2024届
+24级研究生
 
 | <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Jia Wang** <br> 人工智能 | **Jiawei Li** <br> 人工智能 | **Jialu Chen** <br> 人工智能 | **Lidong Zhou** <br> 人工智能 | **Yang Li** <br> 人工智能 |
+| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** |
 
 <br>
+
+访问学生
+
+| <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| **Jia Wang** | **Jiawei Li** |
 
 </div>
 
