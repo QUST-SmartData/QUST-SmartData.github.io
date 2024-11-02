@@ -305,4 +305,4 @@
 
 <br>
 
-<img src ="QR.png" width="300"/>
+<img src ="QRCode.png" width="300"/>
