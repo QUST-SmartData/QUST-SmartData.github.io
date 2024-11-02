@@ -205,6 +205,19 @@
 
 
 
+#### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
+
+- **论文方向**: 工业缺陷检测
+
+- **论文标题**: *Surface defect detection method based on Deep-Learning*
+
+- **论文简介**: 在小目标检测过程中，针对由不同生成机制导致的相似缺陷问题，本文引入了一种融合空间注意力（SA）和坐标注意力（CA）的机制。我们设计了一个新的聚合与重分配网络模型，以解决小目标特征丢失的问题。同时，针对小目标检测中的边界损失问题，提出了一种新的DOS损失函数，以确保小目标位置偏差的平滑性，从而综合提升小目标检测效果。
+
+- **论文期刊**: `pending`
+
+- **论文状态**: `Manuscript Drafting`
+
+
 
 ### 医学相关研究
 该分类包含与医学图像处理相关的项目，专注于提高医学图像分析的准确性和效率。
