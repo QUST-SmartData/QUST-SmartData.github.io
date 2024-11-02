@@ -52,6 +52,7 @@
 <img src="team-members/teams.jpg" width="600"/>
 
 <br>
+<br>
 
 <img src="team-members/welcome.png" width="600"/>
 
