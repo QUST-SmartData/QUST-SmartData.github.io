@@ -315,7 +315,7 @@
 
 ## 联系我们
 
-如有问题或合作意向，请联系团队负责人 [王鑫](mailto:lex.wangx@qust.edu.cn) 。
+如有问题或合作意向，请联系团队负责人 [王鑫（03774@qust.edu.cn）](mailto:03774@qust.edu.cn) 。
 
 <br>
 
