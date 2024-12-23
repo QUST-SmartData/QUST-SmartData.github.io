@@ -13,25 +13,25 @@
 
 <div align=center>
 
-Welcome to our GitHub team homepage!
+欢迎来到我们的GitHub团队主页！
 
-Our team is committed to promoting image analysis research in fields such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
+团队致力于推动地质和医学等领域的图像分析研究，通过深度学习和计算机视觉技术解决实际问题。
 </div>
 
 
 
-## Research Direction
-We focus on the following research directions: 
+## 研究方向
+我们专注于以下研究方向: 
 
-- 🖼️ Computer Vision
-- 🧠 Deep Learning
-- 🤖 Machine Learning
-- 🌍 Geological Image Analysis
-- 🏥 Medical Image Analysis
-- ⚙️ Industrial Applications of AI
+- 🖼️ 计算机视觉
+- 🧠 深度学习
+- 🤖 机器学习
+- 🌍 地质学图像分析
+- 🏥 医学图像分析
+- ⚙️ AI技术的工业界应用
 
 
-## Team Member
+## 团队成员
 
 
 <div align="center">
@@ -44,14 +44,14 @@ We focus on the following research directions:
 
 | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> Electric logging image restoration | **Qijie Huang** <br> Mineral segmentation | **Xiangxin Zhao** <br> Geological fracture segmentation |
+| **Zhaoyan Zhong** <br> 电测井图像修复 | **Qijie Huang** <br> 矿物分割 | **Xiangxin Zhao** <br> 地质裂缝分割 |
 
 <br>
 
 
 | <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> Multi-modal medical image restoration | **Yanxia Liu** <br> 3D core reconstruction | **Yingqi Zhang** <br> 3D core reconstruction | **Liguo Niu** <br> 2D core super-resolution | **Xuefeng Gui** <br> Industrial defect detection | **Shuyang Fan** <br> Generation of porous media |
+| **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 | **Shuyang Fan** <br> 多孔介质生成 |
 
 
 <br>
@@ -63,7 +63,7 @@ We focus on the following research directions:
 
 <img src="team-members/welcome.png" width="600"/>
 
-Graduate students of 2024
+24级研究生
 
 | <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
@@ -71,7 +71,7 @@ Graduate students of 2024
 
 <br>
 
-Visiting students
+访问学生
 
 | <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|
