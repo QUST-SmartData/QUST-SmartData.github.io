@@ -1,8 +1,8 @@
-<center>
+<div align=center>
 
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
 
-</center>
+</div>
 
 
 # <div align=center>SmartData</div>
@@ -38,7 +38,7 @@
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
+| **Xin Wang**  <br> 王鑫于2013年获得中国石油大学博士学位。现任中国青岛科技大学信息科学与技术学院副教授。2017年至2020年，他担任青岛市孔隙尺度成像实验室主任，2018年至2020年间，他还担任山东科学院国际问题研究生院博士生导师。他曾是伦敦帝国理工学院、赫里奥特瓦特大学和俄罗斯科学院远东分院的访问科学家。2016年和2017年，他参加了与俄罗斯和日本的国家联合科学考察队。他的研究方向包括二维和三维图像处理、计算机视觉和人工智能。   |
 
 <br>
 

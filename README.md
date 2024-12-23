@@ -1,8 +1,8 @@
-<center>
+<div align=center>
 
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
 
-</center>
+</div>
 
 
 # <div align=center>SmartData</div>
