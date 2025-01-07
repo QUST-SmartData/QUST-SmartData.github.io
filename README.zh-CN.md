@@ -59,6 +59,10 @@
 <img src="team-members/teams.jpg" width="600"/>
 
 <br>
+
+
+
+
 <br>
 
 <img src="team-members/welcome.png" width="600"/>
@@ -76,6 +80,21 @@
 | <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|
 | **Ruixi Jing** | **Fuzhi Wan** |
+
+
+<br>
+
+团队活动照片
+
+<img src="team-activities/In Aspen.jpg" width="600"/>
+<img src="team-activities/In HWU,Edingburg.jpg" width="600"/>
+<img src="team-activities/in NTNU,Trondheim.jpg" width="600"/>
+<img src="team-activities/with Martin in ICL.jpg" width="600"/>
+<img src="team-activities/帝国理工时期.jpg" width="600"/>
+<img src="team-activities/聚餐1.jpg" width="600"/>
+<img src="team-activities/聚餐2.jpg" width="600"/>
+
+<br>
 
 </div>
 
