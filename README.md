@@ -80,7 +80,7 @@ Visiting students
 
 <br>
 
-Team Activities
+Team activities
 
 <img src="team-activities/In Aspen.jpg" width="600"/>
 <img src="team-activities/In HWU,Edingburg.jpg" width="600"/>
