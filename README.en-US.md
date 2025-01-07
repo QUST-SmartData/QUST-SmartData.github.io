@@ -77,6 +77,21 @@ Visiting students
 |:-----------------------------------------------------:|:-----------------------------------------------------:|
 | **Ruixi Jing** | **Fuzhi Wan** |
 
+
+<br>
+
+Team Activities
+
+<img src="team-activities/In Aspen.jpg" width="600"/>
+<img src="team-activities/In HWU,Edingburg.jpg" width="600"/>
+<img src="team-activities/in NTNU,Trondheim.jpg" width="600"/>
+<img src="team-activities/with Martin in ICL.jpg" width="600"/>
+<img src="team-activities/帝国理工时期.jpg" width="600"/>
+<img src="team-activities/聚餐1.jpg" width="600"/>
+<img src="team-activities/聚餐2.jpg" width="600"/>
+
+<br>
+
 </div>
 
 
