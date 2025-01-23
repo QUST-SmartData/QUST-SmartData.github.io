@@ -141,7 +141,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 - **Journal**: `COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2`
 
-- **Status**: `Review Complete`
+- **Status**: `Accepted`
 
 
 

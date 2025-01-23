@@ -145,7 +145,7 @@
 
 - **论文期刊**: `COMPUTERS & GEOSCIENCES, 中科院SCI 2 区`
 
-- **论文状态**: `Review Complete`
+- **论文状态**: `Accepted`
 
 
 
