@@ -149,11 +149,11 @@ This category contains projects related to geological image analysis, dedicated 
 
 - **Direction**: 3D core reconstruction
 
-- **Title**: *Multi-scale Reconstruction of 3D Digital Rock by Fusing Critical Information of Fine Scale with Framework of Large Scale: A Novel Approach*
+- **Title**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 
 - **Introduction**: We proposed a new generative modeling framework that integrates coarse- and fine-scale information through two networks to effectively model the multiscale structure of porous media and enhance the efficiency and practicality of digital rock reconstruction.
 
-- **Journal**: `COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2`
+- **Journal**: `Environmental Modelling and Software, Chinese Academy of Sciences ranking Q2`
 
 - **Status**: `With the Editor`
 

@@ -153,11 +153,11 @@
 
 - **论文方向**: 3D岩心重建
 
-- **论文标题**: *Multi-scale Reconstruction of 3D Digital Rock by Fusing Critical Information of Fine Scale with Framework of Large Scale: A Novel Approach*
+- **论文标题**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 
 - **论文简介**: 我们提出了一种新的生成模型框架，通过两个网络整合粗尺度和精细尺度信息，有效地建模多孔介质的多尺度结构，提升了数字岩石的重建效率和实用性。
 
-- **论文期刊**: `COMPUTERS & GEOSCIENCES, 中科院SCI 2 区`
+- **论文期刊**: `Environmental Modelling and Software, 中科院SCI 2 区`
 
 - **论文状态**: `With the Editor`
 
