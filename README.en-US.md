@@ -147,7 +147,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [DigitalRockConstruction](https://github.com/QUST-SmartData/DigitalRockConstruction)
 
-- **Direction**: 3D core reconstruction
+- **Direction**: Multiscale characterization
 
 - **Title**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 

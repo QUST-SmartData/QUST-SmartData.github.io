@@ -151,7 +151,7 @@
 
 #### [DigitalRockConstruction](https://github.com/QUST-SmartData/DigitalRockConstruction)
 
-- **论文方向**: 3D岩心重建
+- **论文方向**: 多尺度表征
 
 - **论文标题**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 
