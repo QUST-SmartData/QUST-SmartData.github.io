@@ -86,41 +86,40 @@
 
 团队活动照片
 
-
+<br>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
     <a href="team-activities/In Aspen.jpg" target="_blank">
-        <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/In HWU,Edingburg.jpg" target="_blank">
-        <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/in NTNU,Trondheim.jpg" target="_blank">
-        <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/with Martin in ICL.jpg" target="_blank">
-        <img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/帝国理工时期.jpg" target="_blank">
-        <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/聚餐1.jpg" target="_blank">
-        <img src="team-activities/聚餐1.jpg" alt="聚餐1" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/聚餐1.jpg" alt="聚餐1" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/聚餐2.jpg" target="_blank">
-        <img src="team-activities/聚餐2.jpg" alt="聚餐2" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/聚餐2.jpg" alt="聚餐2" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/Joint Expedition with RAS.jpg" target="_blank">
-        <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/In England(1).jpg" target="_blank">
-        <img src="team-activities/In England(1).jpg" alt="In England(1)" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/In England(3).jpg" target="_blank">
-        <img src="team-activities/In England(3).jpg" alt="In England(3)" width="300" height="200" style="margin: 5px; object-fit: cover;"/>
+        <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
 </div>
-
 
 ## 仓库介绍
 
