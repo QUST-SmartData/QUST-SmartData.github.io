@@ -20,8 +20,8 @@ Our team is committed to promoting image analysis research in fields such as geo
 
 
 
-## Research Direction
-We focus on the following research directions: 
+## Study Direction
+We focus on the following study directions: 
 
 - 🖼️ Computer Vision
 - 🧠 Deep Learning
@@ -31,7 +31,7 @@ We focus on the following research directions:
 - ⚙️ Industrial Applications of AI
 
 
-## Team Member
+## Team Members
 
 
 <div align="center">
@@ -78,7 +78,7 @@ Visiting students
 | **Ruixi Jing** | **Fuzhi Wan** |
 
 
-<br>
+<!-- <br>
 
 Team activities
 
@@ -89,11 +89,46 @@ Team activities
 <img src="team-activities/帝国理工时期.jpg" width="600"/>
 <img src="team-activities/聚餐1.jpg" width="600"/>
 <img src="team-activities/聚餐2.jpg" width="600"/>
+<img src="team-activities/Joint Expedition with RAS.jpg" width="600"/>
+<img src="team-activities/In England(1).jpg" width="600"/>
+<img src="team-activities/In England(3).jpg" width="600"/>
 
-<br>
+<br> -->
 
 </div>
 
+<div style="display: flex; flex-wrap: wrap;">
+    <a href="team-activities/In Aspen.jpg" target="_blank">
+        <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/In HWU,Edingburg.jpg" target="_blank">
+        <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/in NTNU,Trondheim.jpg" target="_blank">
+        <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/with Martin in ICL.jpg" target="_blank">
+        <img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/帝国理工时期.jpg" target="_blank">
+        <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/聚餐1.jpg" target="_blank">
+        <img src="team-activities/聚餐1.jpg" alt="聚餐1" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/聚餐2.jpg" target="_blank">
+        <img src="team-activities/聚餐2.jpg" alt="聚餐2" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/Joint Expedition with RAS.jpg" target="_blank">
+        <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/In England(1).jpg" target="_blank">
+        <img src="team-activities/In England(1).jpg" alt="In England(1)" width="300" style="margin: 5px;"/>
+    </a>
+    <a href="team-activities/In England(3).jpg" target="_blank">
+        <img src="team-activities/In England(3).jpg" alt="In England(3)" width="300" style="margin: 5px;"/>
+    </a>
+</div>
 
 
 ## Repository Introduction 
@@ -103,7 +138,7 @@ Team activities
 This category contains projects related to geological image analysis, dedicated to extracting and analyzing geological data using deep learning techniques.
 
 
-#### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
+#### [GeoDeepGenerativePrior](/https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
 - **Direction**: Electrical logging image restoration
 
@@ -117,7 +152,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
+#### [FPEM-GAN](/https://github.com/QUST-SmartData/FPEM-GAN)
 
 - **Direction**: Electrical logging image restoration
 
@@ -131,7 +166,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
+#### [ADA-PGGAN](/https://github.com/QUST-SmartData/ADA-PGGAN)
+
 
 - **Direction**: 3D core reconstruction
 
@@ -159,7 +195,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [DTSS](https://github.com/QUST-SmartData/DTSS)
+#### [DTSS](/https://github.com/QUST-SmartData/DTSS)
+
 
 - **Direction**: 3D core mineral segmentation
 
@@ -173,7 +210,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
+#### [UDAFractureSeg](/https://github.com/QUST-SmartData/UDAFractureSeg)
+
 
 - **Direction**: 2D core fracture segmentation
 
@@ -187,7 +225,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
+#### [FractureSeg3D](/https://github.com/QUST-SmartData/FractureSeg3D)
 
 - **Direction**: 3D core fracture segmentation
 
@@ -214,7 +252,7 @@ This category contains projects related to geological image analysis, dedicated 
 - **Status**: `Under Review`
 
 
-#### [MLDM](https://github.com/QUST-SmartData/)
+#### [MLDM](/https://github.com/QUST-SmartData/)
 
 - **Direction**: Generation of porous media
 
@@ -228,7 +266,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
+#### [SurfaceDefectDetectionYolov8](/https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
 
 - **Direction**: Industrial defect detection
 
@@ -245,7 +283,7 @@ This category contains projects related to geological image analysis, dedicated 
 ### Medical related research
 This category contains projects related to medical image processing that focus on improving the accuracy and efficiency of medical image analysis.
 
-#### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
+#### [CXRClassification](/https://github.com/QUST-SmartData/CXRClassification)
 
 - **Direction**: Medical image multi label disease classification
 
@@ -260,7 +298,7 @@ This category contains projects related to medical image processing that focus o
 
 
 
-#### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
+#### [FSTI-GAN](/https://github.com/QUST-SmartData/FSTI-GAN)
 
 
 - **Direction**: Multimodal medical image restoration
@@ -275,7 +313,7 @@ This category contains projects related to medical image processing that focus o
 
 
 
-#### [CLECC](https://github.com/QUST-SmartData/)
+#### [CLECC](/https://github.com/QUST-SmartData/)
 
 
 - **Direction**: Classification of Medical Ultrasound Images
@@ -292,7 +330,7 @@ This category contains projects related to medical image processing that focus o
 ### Industrial Applications
 This category includes industrial application projects related to AI models, focusing on process automation, innovation driven solutions, and customer experience enhancement.
 
-#### [AI based municipal design software assisted system](https://github.com/QUST-SmartData/AICAD)
+#### [AI based municipal design software assisted system](/https://github.com/QUST-SmartData/AICAD)
 
 - **Introduction**: 
 This project aims to improve the efficiency and accuracy of municipal design by introducing AI technology on top of existing municipal design software in order to realize intelligent drawing functions in municipal design tasks. The project includes conducting a detailed requirements analysis, introducing applicable AI technologies, researching and training AI models, developing and integrating the software, as well as summarizing the project and accepting the results.

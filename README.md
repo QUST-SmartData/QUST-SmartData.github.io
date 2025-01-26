@@ -20,8 +20,8 @@ Our team is committed to promoting image analysis research in fields such as geo
 
 
 
-## Research Direction
-We focus on the following research directions: 
+## Study Direction
+We focus on the following study directions: 
 
 - 🖼️ Computer Vision
 - 🧠 Deep Learning
@@ -31,7 +31,7 @@ We focus on the following research directions:
 - ⚙️ Industrial Applications of AI
 
 
-## Team Member
+## Team Members
 
 
 <div align="center">
@@ -89,7 +89,9 @@ Team activities
 <img src="team-activities/帝国理工时期.jpg" width="600"/>
 <img src="team-activities/聚餐1.jpg" width="600"/>
 <img src="team-activities/聚餐2.jpg" width="600"/>
-
+<img src="team-activities/Joint Expedition with RAS.jpg" width="600"/>
+<img src="team-activities/In England(1).jpg" width="600"/>
+<img src="team-activities/In England(2).jpg" width="600"/>
 <br>
 
 </div>
