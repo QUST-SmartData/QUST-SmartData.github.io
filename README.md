@@ -20,8 +20,8 @@ Our team is committed to promoting image analysis research in fields such as geo
 
 
 
-## Study Direction
-We focus on the following study directions: 
+## Study
+We focus on the following research directions: 
 
 - 🖼️ Computer Vision
 - 🧠 Deep Learning
