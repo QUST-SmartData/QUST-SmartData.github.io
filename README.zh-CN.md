@@ -89,7 +89,7 @@
 <br>
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto;">
-    <a href="team-activities/In Aspen.jpg" target="_blank">
+     <a href="team-activities/In Aspen.jpg" target="_blank"> 
         <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
     <a href="team-activities/In HWU,Edingburg.jpg" target="_blank">
