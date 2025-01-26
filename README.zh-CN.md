@@ -88,7 +88,7 @@
 
 <br>
 </div>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="team-activities/In Aspen.jpg" target="_blank">
         <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
