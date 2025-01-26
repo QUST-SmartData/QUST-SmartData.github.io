@@ -86,7 +86,135 @@ Team activities
 <br>
 
 </div>
-<div style="display: flex; flex-wrap: wrap;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Activities</title>
+    <style>
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .gallery img {
+            width: 150px;
+            height: 100px;
+            object-fit: cover;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+        .gallery img:hover {
+            transform: scale(1.1);
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 700px;
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div class="gallery">
+    <a href="team-activities/In Aspen.jpg" target="_blank">
+        <img src="team-activities/In Aspen.jpg" alt="In Aspen" class="modal-img" data-src="team-activities/In Aspen.jpg"/>
+    </a>
+    <a href="team-activities/In HWU,Edingburg.jpg" target="_blank">
+        <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" class="modal-img" data-src="team-activities/In HWU,Edingburg.jpg"/>
+    </a>
+    <a href="team-activities/in NTNU,Trondheim.jpg" target="_blank">
+        <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" class="modal-img" data-src="team-activities/in NTNU,Trondheim.jpg"/>
+    </a>
+    <a href="team-activities/with Martin in ICL.jpg" target="_blank">
+        <img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" class="modal-img" data-src="team-activities/with Martin in ICL.jpg"/>
+    </a>
+    <a href="team-activities/帝国理工时期.jpg" target="_blank">
+        <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" class="modal-img" data-src="team-activities/帝国理工时期.jpg"/>
+    </a>
+    <a href="team-activities/聚餐1.jpg" target="_blank">
+        <img src="team-activities/聚餐1.jpg" alt="聚餐1" class="modal-img" data-src="team-activities/聚餐1.jpg"/>
+    </a>
+    <a href="team-activities/聚餐2.jpg" target="_blank">
+        <img src="team-activities/聚餐2.jpg" alt="聚餐2" class="modal-img" data-src="team-activities/聚餐2.jpg"/>
+    </a>
+    <a href="team-activities/Joint Expedition with RAS.jpg" target="_blank">
+        <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" class="modal-img" data-src="team-activities/Joint Expedition with RAS.jpg"/>
+    </a>
+    <a href="team-activities/In England(1).jpg" target="_blank">
+        <img src="team-activities/In England(1).jpg" alt="In England(1)" class="modal-img" data-src="team-activities/In England(1).jpg"/>
+    </a>
+    <a href="team-activities/In England(3).jpg" target="_blank">
+        <img src="team-activities/In England(3).jpg" alt="In England(3)" class="modal-img" data-src="team-activities/In England(3).jpg"/>
+    </a>
+</div>
+
+<div id="myModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    // 获取所有图片
+    var images = document.querySelectorAll('.modal-img');
+    var modal = document.getElementById('myModal');
+    var modalImg = document.getElementById('img01');
+    var span = document.getElementsByClassName("close")[0];
+
+    // 点击图片时打开模态框
+    images.forEach(img => {
+        img.onclick = function() {
+            modal.style.display = "block";
+            modalImg.src = this.getAttribute('data-src');
+        }
+    });
+
+    // 点击关闭按钮时关闭模态框
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // 点击模态框外部时关闭模态框
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
+
+</body>
+</html>
+<!-- <div style="display: flex; flex-wrap: wrap;">
     <a href="team-activities/In Aspen.jpg" target="_blank">
         <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
@@ -117,7 +245,7 @@ Team activities
     <a href="team-activities/In England(3).jpg" target="_blank">
         <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
-</div>
+</div> -->
 
 
 ## Repository Introduction 
