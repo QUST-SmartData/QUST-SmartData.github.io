@@ -117,7 +117,7 @@ Team activities
     <a href="team-activities/In England(3).jpg" target="_blank">
         <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
     </a>
-</div> -->
+</div>
 
 
 ## Repository Introduction 
