@@ -15,7 +15,7 @@
 
 Welcome to our GitHub team homepage!
 
-We guys aimed at the image analysis research in fields such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
+We aimed at studying on the artificial intellegence for the challenges on the field of studies such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
 </div>
 
 
