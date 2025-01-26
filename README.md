@@ -15,13 +15,13 @@
 
 Welcome to our GitHub team homepage!
 
-Our team is committed to promoting image analysis research in fields such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
+We guys aimed at the image analysis research in fields such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
 </div>
 
 
 
 ## Study
-We focus on the following research directions: 
+We focus on the following releated studies: 
 
 - 🖼️ Computer Vision
 - 🧠 Deep Learning
