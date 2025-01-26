@@ -155,7 +155,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 - **Journal**: `Environmental Modelling and Software, Chinese Academy of Sciences ranking Q2`
 
-- **Status**: `With the Editor`
+- **Status**: `Under Review`
 
 
 
