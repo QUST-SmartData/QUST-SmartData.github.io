@@ -132,7 +132,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [ADA-PGGAN](/https://github.com/QUST-SmartData/ADA-PGGAN)
+#### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
 
 - **Direction**: 3D core reconstruction
 
