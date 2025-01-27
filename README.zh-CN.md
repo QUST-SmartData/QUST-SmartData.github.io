@@ -106,7 +106,7 @@
 该分类包含与地质图像分析相关的项目，致力于利用深度学习技术提取和分析地质数据。
 
 
-#### [GeoDeepGenerativePrior](/https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
+#### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
 - **论文方向**: 电测井图像修复
 
@@ -120,7 +120,7 @@
 
 
 
-#### [FPEM-GAN](/https://github.com/QUST-SmartData/FPEM-GAN)
+#### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
 
 
 - **论文方向**: 电测井图像修复
@@ -135,7 +135,7 @@
 
 
 
-#### [ADA-PGGAN](/https://github.com/QUST-SmartData/ADA-PGGAN)
+#### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
 
 
 - **论文方向**: 3D岩心重建
@@ -164,7 +164,7 @@
 
 
 
-#### [DTSS](/https://github.com/QUST-SmartData/DTSS)
+#### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
 - **论文方向**: 3D岩心矿物分割
 
@@ -178,7 +178,7 @@
 
 
 
-#### [UDAFractureSeg](/https://github.com/QUST-SmartData/UDAFractureSeg)
+#### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
 
 - **论文方向**: 2D岩心裂缝分割
 
@@ -192,7 +192,7 @@
 
 
 
-#### [FractureSeg3D](/https://github.com/QUST-SmartData/FractureSeg3D)
+#### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
 
 - **论文方向**: 3D岩心裂缝分割
 
@@ -219,7 +219,7 @@
 - **论文状态**: `Under Review`
 
 
-#### [MLDM](/https://github.com/QUST-SmartData/)
+#### [MLDM](https://github.com/QUST-SmartData/)
 
 - **论文方向**: 多孔介质微结构生成
 
@@ -233,7 +233,7 @@
 
 
 
-#### [SurfaceDefectDetectionYolov8](/https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
+#### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
 
 - **论文方向**: 工业缺陷检测
 
@@ -250,7 +250,7 @@
 ### 医学相关研究
 该分类包含与医学图像处理相关的项目，专注于提高医学图像分析的准确性和效率。
 
-#### [CXRClassification](/https://github.com/QUST-SmartData/CXRClassification)
+#### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
 
 - **论文方向**: 医学图像多标签疾病分类
 
@@ -265,7 +265,7 @@
 
 
 
-#### [FSTI-GAN](/https://github.com/QUST-SmartData/FSTI-GAN)
+#### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
 
 
 - **论文方向**: 多模态医学图像修复
@@ -280,7 +280,7 @@
 
 
 
-#### [CLECC](/https://github.com/QUST-SmartData/)
+#### [CLECC](https://github.com/QUST-SmartData/)
 
 
 - **论文方向**: 医学超声图像分类
@@ -297,7 +297,7 @@
 ### 工业界应用
 该分类包含与AI模型相关的工业界应用项目，专注于过程自动化、创新驱动解决方案和客户体验增强。
 
-#### [基于AI的市政设计软件辅助系统](/https://github.com/QUST-SmartData/AICAD)
+#### [基于AI的市政设计软件辅助系统](https://github.com/QUST-SmartData/AICAD)
 
 - **项目介绍**: 
 本项目旨在于现有市政设计软件基础上，引入人工智能技术，以实现市政设计任务中的智能绘图功能，从而提高市政设计的效率和精准度。项目包括进行详细的需求分析、引入适用的AI技术、对AI模型的研究和训练、软件的开发与集成、以及项目总结和成果验收。

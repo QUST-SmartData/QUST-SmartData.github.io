@@ -104,7 +104,7 @@ Team activities
 This category contains projects related to geological image analysis, dedicated to extracting and analyzing geological data using deep learning techniques.
 
 
-#### [GeoDeepGenerativePrior](/https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
+#### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
 - **Direction**: Electrical logging image restoration
 
@@ -118,7 +118,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [FPEM-GAN](/https://github.com/QUST-SmartData/FPEM-GAN)
+#### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
 
 - **Direction**: Electrical logging image restoration
 
@@ -160,7 +160,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [DTSS](/https://github.com/QUST-SmartData/DTSS)
+#### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
 - **Direction**: 3D core mineral segmentation
 
@@ -174,7 +174,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [UDAFractureSeg](/https://github.com/QUST-SmartData/UDAFractureSeg)
+#### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
 
 - **Direction**: 2D core fracture segmentation
 
@@ -188,7 +188,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [FractureSeg3D](/https://github.com/QUST-SmartData/FractureSeg3D)
+#### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
 
 - **Direction**: 3D core fracture segmentation
 
@@ -215,7 +215,7 @@ This category contains projects related to geological image analysis, dedicated 
 - **Status**: `Under Review`
 
 
-#### [MLDM](/https://github.com/QUST-SmartData/)
+#### [MLDM](https://github.com/QUST-SmartData/)
 
 - **Direction**: Generation of porous media
 
@@ -229,7 +229,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-#### [SurfaceDefectDetectionYolov8](/https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
+#### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
 
 - **Direction**: Industrial defect detection
 
@@ -246,7 +246,7 @@ This category contains projects related to geological image analysis, dedicated 
 ### Medical related research
 This category contains projects related to medical image processing that focus on improving the accuracy and efficiency of medical image analysis.
 
-#### [CXRClassification](/https://github.com/QUST-SmartData/CXRClassification)
+#### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
 
 - **Direction**: Medical image multi label disease classification
 
@@ -261,7 +261,7 @@ This category contains projects related to medical image processing that focus o
 
 
 
-#### [FSTI-GAN](/https://github.com/QUST-SmartData/FSTI-GAN)
+#### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
 
 
 - **Direction**: Multimodal medical image restoration
@@ -276,7 +276,7 @@ This category contains projects related to medical image processing that focus o
 
 
 
-#### [CLECC](/https://github.com/QUST-SmartData/)
+#### [CLECC](https://github.com/QUST-SmartData/)
 
 
 - **Direction**: Classification of Medical Ultrasound Images
