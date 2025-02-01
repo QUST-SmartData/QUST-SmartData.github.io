@@ -140,7 +140,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 - **Title**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN*
 
-- **Introduction**: We proposed a novel feature distribution learning and adaptive data enhancement framework based on the generative model GAN, which successfully reconstructs high-quality large-scale 3D digital rocks in data-scarce environments and validates its accuracy and consistency by multiple metrics.
+- **Introduction**: We proposed a novel feature distribution learning and adaptive data enhancement framework based on the generative model GAN, which successfully reconstructs high-quality large-scale 3D digital rocks in data-scarce environments and validates its accuracy and consistency by multiple metrics , the code for free same as before but please firstly contact 03774@qust.edu.cn
 
 - **Journal**: `COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2`
 
