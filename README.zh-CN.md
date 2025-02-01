@@ -146,7 +146,7 @@
 
 - **论文期刊**: `COMPUTERS & GEOSCIENCES, 中科院SCI 2 区`
 
-- **论文状态**: `Accepted`
+- **论文状态**: `Accepted` https://www.sciencedirect.com/science/article/abs/pii/S0098300425000214
 
 
 
