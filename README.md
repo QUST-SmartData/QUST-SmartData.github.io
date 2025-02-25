@@ -56,8 +56,8 @@ We focus on the following releated studies:
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
-<div class="container">
-<div class="left">
+<!-- <div class="container">
+<div class="left"> -->
 
 
 <!-- ## Team Members -->
@@ -245,10 +245,10 @@ Team activities
 <img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
 <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
 
-</div>
+<!-- </div>
 
 
-<div class="left">
+<div class="left"> -->
 
 ## Iive Output
 
@@ -502,5 +502,5 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 
 <img src ="QRCode.png" width="300"/>
 
-</div>
-</div>
+<!-- </div>
+</div> -->
