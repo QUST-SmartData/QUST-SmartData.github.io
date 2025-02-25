@@ -1,7 +1,8 @@
 <div align=center>
-  <pre>
+  <!-- <pre>
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
-  </pre>
+  </pre> -->
+  <a href="README.en-US.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
 </div>
 
 
