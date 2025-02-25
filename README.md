@@ -5,7 +5,7 @@
 </div>
 
 
-## <div align=center>SmartData</div>
+## <div align=center><pre>SmartData</pre></div>
 
 <div align=center><img src ="logo.jpg"/></div>
 
