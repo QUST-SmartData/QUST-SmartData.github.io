@@ -34,11 +34,16 @@ We focus on the following releated studies:
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-## Team Members
+<div style="flex: 1;">
+
+<!-- ## Team Members -->
+<h2>Team Members</h2>
 
 
-<div align="center">
+<!-- <div align="center"> -->
+
 
 <!-- | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
@@ -59,16 +64,82 @@ We focus on the following releated studies:
 
 <br>
 
-| <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
+<!-- | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spacial awareness | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
+| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spacial awareness | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception | -->
+<table align="center" border="1" width="100%">
+  <tr>
+    <td align="center">
+      <img src="team-members/Zhaoyan Zhong.jpg" width="100" alt="Zhaoyan Zhong">
+    </td>
+    <td align="center">
+      <img src="team-members/Qijie Huang.jpg" width="100" alt="Qijie Huang">
+    </td>
+    <td align="center">
+      <img src="team-members/Xiangxin Zhao.jpg" width="100" alt="Xiangxin Zhao">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Zhaoyan Zhong</strong><br>IntelliSense, Big model
+    </td>
+    <td align="center">
+      <strong>Qijie Huang</strong><br>Spacial awareness
+    </td>
+    <td align="center">
+      <strong>Xiangxin Zhao</strong><br>Unsupervised learning, Self-perception
+    </td>
+  </tr>
+</table>
 
 <br>
 
 
-| <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
+<!-- | <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> Medicine AI application | **Yanxia Liu** <br> Multi-scale 3D reconstruction | **Yingqi Zhang** <br> Latent space inversion | **Liguo Niu** <br> Super-resolution | **Xuefeng Gui** <br> Industrial AI application | **Shuyang Fan** <br> Big model |
+| **Xintao Mu** <br> Medicine AI application | **Yanxia Liu** <br> Multi-scale 3D reconstruction | **Yingqi Zhang** <br> Latent space inversion | **Liguo Niu** <br> Super-resolution | **Xuefeng Gui** <br> Industrial AI application | **Shuyang Fan** <br> Big model | -->
+<table align="center" border="1" width="100%">
+  <tr>
+    <td align="center">
+      <img src="team-members/Xintao Mu.jpg" width="100" alt="Xintao Mu">
+    </td>
+    <td align="center">
+      <img src="team-members/Yanxia Liu.jpg" width="100" alt="Yanxia Liu">
+    </td>
+    <td align="center">
+      <img src="team-members/Yingqi Zhang.jpg" width="100" alt="Yingqi Zhang">
+    </td>
+    <td align="center">
+      <img src="team-members/Liguo Niu.jpg" width="100" alt="Liguo Niu">
+    </td>
+    <td align="center">
+      <img src="team-members/Xuefeng Gui.jpg" width="100" alt="Xuefeng Gui">
+    </td>
+    <td align="center">
+      <img src="team-members/Shuyang Fan.jpg" width="100" alt="Shuyang Fan">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Xintao Mu</strong><br>Medicine AI application
+    </td>
+    <td align="center">
+      <strong>Yanxia Liu</strong><br>Multi-scale 3D reconstruction
+    </td>
+    <td align="center">
+      <strong>Yingqi Zhang</strong><br>Latent space inversion
+    </td>
+    <td align="center">
+      <strong>Liguo Niu</strong><br>Super-resolution
+    </td>
+    <td align="center">
+      <strong>Xuefeng Gui</strong><br>Industrial AI application
+    </td>
+    <td align="center">
+      <strong>Shuyang Fan</strong><br>Big model
+    </td>
+  </tr>
+</table>
 
 
 <br>
@@ -82,17 +153,57 @@ We focus on the following releated studies:
 
 Graduate students of 2024
 
-| <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
+<!-- | <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** |
+| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** | -->
+<table align="center" border="1" width="100%">
+  <tr>
+    <td align="center">
+      <img src="team-members/Jia Wang.jpg" width="100" alt="Jia Wang">
+    </td>
+    <td align="center">
+      <img src="team-members/Jiawei Li.jpg" width="100" alt="Jiawei Li">
+    </td>
+    <td align="center">
+      <img src="team-members/Jialu Chen.jpg" width="100" alt="Jialu Chen">
+    </td>
+    <td align="center">
+      <img src="team-members/Lidong Zhou.jpg" width="100" alt="Lidong Zhou">
+    </td>
+    <td align="center">
+      <img src="team-members/Yang Li.jpg" width="100" alt="Yang Li">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Jia Wang</strong></td>
+    <td align="center"><strong>Jiawei Li</strong></td>
+    <td align="center"><strong>Jialu Chen</strong></td>
+    <td align="center"><strong>Lidong Zhou</strong></td>
+    <td align="center"><strong>Yang Li</strong></td>
+  </tr>
+</table>
 
 <br>
 
 Visiting students
 
-| <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
+<!-- | <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Ruixi Jing** | **Fuzhi Wan** |
+| **Ruixi Jing** | **Fuzhi Wan** | -->
+<table border="1" width="100%">
+  <tr>
+    <td align="center">
+      <img src="team-members/Ruixi Jing.jpg" width="100" alt="Ruixi Jing">
+    </td>
+    <td align="center">
+      <img src="team-members/Fuzhi Wan.jpg" width="100" alt="Fuzhi Wan">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ruixi Jing</strong></td>
+    <td align="center"><strong>Fuzhi Wan</strong></td>
+  </tr>
+</table>
 
 
 <br>
@@ -114,7 +225,7 @@ Team activities
 </div>
 
 
-
+<div style="flex: 1;">
 
 ## Iive Output
 
@@ -367,3 +478,4 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 <br>
 
 <img src ="QRCode.png" width="300"/>
+</div>
