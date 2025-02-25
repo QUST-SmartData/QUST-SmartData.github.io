@@ -1,11 +1,11 @@
 <div align=center>
-
+  <pre>
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
-
+  </pre>
 </div>
 
 
-## <div align=center><pre>SmartData</pre></div>
+## <div align=center>SmartData</div>
 
 <div align=center><img src ="logo.jpg"/></div>
 
