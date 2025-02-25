@@ -38,7 +38,7 @@ We focus on the following releated studies:
 ## Team Members
 
 
-<div align="center">
+<div align="center" id="markdown-content">
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
@@ -99,6 +99,43 @@ Team activities
 <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
 
 </div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    // 定义 Markdown 内容
+    const markdownText = `
+      # 这是一个标题
+
+      这是一个段落，用于展示 Markdown 的基本功能。你可以在这里写一些文本内容。
+
+      ## 子标题
+
+      * 这是列表项1
+      * 这是列表项2
+      * 这是列表项3
+
+      ### 更小的标题
+
+      > 这是一个引用，可以用来展示引用的内容。
+
+      [这是一个链接](https://www.example.com)
+
+      \`\`\`javascript
+      // 这是一个代码块示例
+      console.log("Hello, world!");
+      \`\`\`
+
+      | 表头1 | 表头2 | 表头3 |
+      |-------|-------|-------|
+      | 内容1 | 内容2 | 内容3 |
+      | 内容4 | 内容5 | 内容6 |
+    `;
+
+    // 使用 marked.js 将 Markdown 转换为 HTML
+    const htmlContent = marked(markdownText);
+
+    // 将生成的 HTML 插入到页面中的 <div> 中
+    document.getElementById('markdown-content').innerHTML = htmlContent;
+  </script>
 
 
 
