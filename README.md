@@ -1,4 +1,26 @@
-
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Left-Right Layout with Flexbox</title>
+  <style>
+    .container {
+      display: flex; /* 使用 Flexbox 布局 */
+      height: 100vh; /* 容器高度占满整个视口 */
+    }
+    .left {
+      width: 30%; /* 左侧宽度 */
+      background-color: #f0f0f0;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .right {
+      width: 70%; /* 右侧宽度 */
+      background-color: #e0e0e0;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
 <div align=center>
   <!-- <pre>
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
@@ -34,9 +56,9 @@ We focus on the following releated studies:
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div class="container">
+<div class="left">
 
-<div style="flex: 1;">
 
 <!-- ## Team Members -->
 <h2>Team Members</h2>
@@ -226,7 +248,7 @@ Team activities
 </div>
 
 
-<!-- <div style="flex: 1;"> -->
+<div class="left">
 
 ## Iive Output
 
@@ -480,4 +502,5 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 
 <img src ="QRCode.png" width="300"/>
 
-<!-- </div> -->
+</div>
+</div>
