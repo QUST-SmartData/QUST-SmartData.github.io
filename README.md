@@ -1,4 +1,4 @@
-<head>
+<!-- <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Left-Right Layout with Flexbox</title>
@@ -20,7 +20,7 @@
       box-sizing: border-box;
     }
   </style>
-</head>
+</head> -->
 <div align=center>
   <!-- <pre>
 [English](README.en-US.md) | [简体中文](README.zh-CN.md)
@@ -64,7 +64,7 @@ We focus on the following releated studies:
 <h2>Team Members</h2>
 
 
-<!-- <div align="center"> -->
+<div align="center">
 
 
 <!-- | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
@@ -245,10 +245,10 @@ Team activities
 <img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
 <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
 
-<!-- </div>
+</div>
 
 
-<div class="left"> -->
+<!-- <div class="left"> -->
 
 ## Iive Output
 
