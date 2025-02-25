@@ -38,11 +38,24 @@ We focus on the following releated studies:
 ## Team Members
 
 
-<div align="center" id="markdown-content">
+<div align="center">
 
-| <img src="team-members/Xin%20Wang.jpg" width="100"/> |
+<!-- | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Supervisor：Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
+| **Supervisor：Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   | -->
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <img src="team-members/Xin%20Wang.jpg" width="100" alt="Xin Wang" style="display: block; margin: 0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <strong>Supervisor: Xin Wang</strong><br>
+      Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial College London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing, computer vision & artificial intelligence.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -99,43 +112,7 @@ Team activities
 <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
 
 </div>
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script>
-    // 定义 Markdown 内容
-    const markdownText = `
-      # 这是一个标题
 
-      这是一个段落，用于展示 Markdown 的基本功能。你可以在这里写一些文本内容。
-
-      ## 子标题
-
-      * 这是列表项1
-      * 这是列表项2
-      * 这是列表项3
-
-      ### 更小的标题
-
-      > 这是一个引用，可以用来展示引用的内容。
-
-      [这是一个链接](https://www.example.com)
-
-      \`\`\`javascript
-      // 这是一个代码块示例
-      console.log("Hello, world!");
-      \`\`\`
-
-      | 表头1 | 表头2 | 表头3 |
-      |-------|-------|-------|
-      | 内容1 | 内容2 | 内容3 |
-      | 内容4 | 内容5 | 内容6 |
-    `;
-
-    // 使用 marked.js 将 Markdown 转换为 HTML
-    const htmlContent = marked(markdownText);
-
-    // 将生成的 HTML 插入到页面中的 <div> 中
-    document.getElementById('markdown-content').innerHTML = htmlContent;
-  </script>
 
 
 
