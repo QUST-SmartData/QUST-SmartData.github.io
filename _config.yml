@@ -1,0 +1,29 @@
+# 站点基本信息
+title: ""
+email: ""
+description: ""
+baseurl: ""  # 如果你的站点是 `https://your-github-username.github.io/your-repo-name`，则设置为 `/your-repo-name`
+url: "https://qust-smartdata.github.io"  # 你的 GitHub Pages 站点地址
+
+# Markdown 处理器
+markdown: kramdown
+
+# 默认布局
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-mathjax
+
+# 主题
+theme: minima
+
+# 自定义配置
+mathjax: true  # 启用 MathJax 支持数学公式
