@@ -33,6 +33,7 @@ We focus on the following releated studies:
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <div style="flex: 1;">
+<pre><code>
 
 ## Team Members
 
@@ -97,10 +98,12 @@ Team activities
 <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
 <img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
 <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
+</code></pre>
 
 </div>
 
 <div style="flex: 1;">
+<pre><code>
 
 ## Iive Output
 
@@ -354,4 +357,5 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 <br>
 
 <img src ="QRCode.png" width="300"/>
+</code></pre>
 </div>
