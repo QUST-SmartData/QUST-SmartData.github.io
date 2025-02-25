@@ -30,11 +30,14 @@ We focus on the following releated studies:
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1;">
 
 ## Team Members
 
 
-<div align="center">
+<!-- <div align="center"> -->
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
@@ -80,6 +83,7 @@ Visiting students
 
 <br>
 
+
 Team activities
 
 <br>
@@ -96,7 +100,7 @@ Team activities
 
 </div>
 
-
+<div style="flex: 1;">
 
 ## Iive Output
 
@@ -317,6 +321,7 @@ This project aims to improve the efficiency and accuracy of municipal design by 
 
 
 
+
 ## Language and Tools
 
 <p>
@@ -349,3 +354,4 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 <br>
 
 <img src ="QRCode.png" width="300"/>
+</div>

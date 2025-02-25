@@ -30,15 +30,18 @@ We focus on the following releated studies:
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1;">
 
 ## Team Members
 
 
-<div align="center">
+<!-- <div align="center"> -->
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Supervisor：Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
+| **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
 
 <br>
 
@@ -80,6 +83,7 @@ Visiting students
 
 <br>
 
+
 Team activities
 
 <br>
@@ -96,7 +100,7 @@ Team activities
 
 </div>
 
-
+<div style="flex: 1;">
 
 ## Iive Output
 
@@ -317,6 +321,7 @@ This project aims to improve the efficiency and accuracy of municipal design by 
 
 
 
+
 ## Language and Tools
 
 <p>
@@ -349,3 +354,4 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 <br>
 
 <img src ="QRCode.png" width="300"/>
+</div>
