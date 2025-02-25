@@ -44,7 +44,7 @@ We focus on the following releated studies:
 
 | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spatial perception | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
+| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spacial awareness | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
 
 <br>
 
