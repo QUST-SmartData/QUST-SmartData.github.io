@@ -44,7 +44,7 @@ We focus on the following releated studies:
 
 | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> Intelligent perception, Big model | **Qijie Huang** <br> Spatial perception | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
+| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spatial perception | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
 
 <br>
 
@@ -107,7 +107,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
-- **Highlight**: Intelligent perception
+- **Highlight**: IntelliSense
 
 - **Title**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
 
@@ -167,7 +167,7 @@ This category contains projects related to geological image analysis, dedicated 
 #### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
 
-- **Highlight**: Spatial perception
+- **Highlight**: Spacial awareness
 
 - **Title**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network*
 
