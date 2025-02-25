@@ -38,20 +38,20 @@
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Xin Wang**  <br> 王鑫于2013年获得中国石油大学博士学位。现任中国青岛科技大学信息科学与技术学院副教授。2017年至2020年，他担任青岛市孔隙尺度成像实验室主任，2018年至2020年间，他还担任山东科学院国际问题研究生院博士生导师。他曾是伦敦帝国理工学院、赫里奥特瓦特大学和俄罗斯科学院远东分院的访问科学家。2016年和2017年，他参加了与俄罗斯和日本的国家联合科学考察队。他的研究方向包括二维和三维图像处理、计算机视觉和人工智能。   |
+| **Supervisor：Xin Wang**  <br> 王鑫于2013年获得中国石油大学博士学位。现任中国青岛科技大学信息科学与技术学院副教授。2017年至2020年，他担任青岛市孔隙尺度成像实验室主任，2018年至2020年间，他还担任山东科学院国际问题研究生院博士生导师。他曾是伦敦帝国理工学院、赫里奥特瓦特大学和俄罗斯科学院远东分院的访问科学家。2016年和2017年，他参加了与俄罗斯和日本的国家联合科学考察队。他的研究方向包括二维和三维图像处理、计算机视觉和人工智能。   |
 
 <br>
 
 | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> 电测井图像修复 | **Qijie Huang** <br> 矿物分割 | **Xiangxin Zhao** <br> 地质裂缝分割 |
+| **Zhaoyan Zhong** <br> 智能感知 大模型 | **Qijie Huang** <br> 空间感知 | **Xiangxin Zhao** <br> 无监督学习 自感知 |
 
 <br>
 
 
 | <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> 多模态医学图像修复 | **Yanxia Liu** <br> 3D岩心重建 | **Yingqi Zhang** <br> 3D岩心重建 | **Liguo Niu** <br> 2D岩心超分辨 | **Xuefeng Gui** <br> 工业缺陷检测 | **Shuyang Fan** <br> 多孔介质生成 |
+| **Xintao Mu** <br> 医学AI应用 | **Yanxia Liu** <br> 多尺度3D重建 | **Yingqi Zhang** <br> 潜空间反演 | **Liguo Niu** <br> 超分辨 | **Xuefeng Gui** <br> 工业AI应用 | **Shuyang Fan** <br> 大模型 |
 
 
 <br>
@@ -101,14 +101,14 @@
 
 ## 仓库介绍
 
-### 地质学相关研究
+<!-- ### 地质学相关研究
 
-该分类包含与地质图像分析相关的项目，致力于利用深度学习技术提取和分析地质数据。
+该分类包含与地质图像分析相关的项目，致力于利用深度学习技术提取和分析地质数据。 -->
 
 
 #### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
-- **论文方向**: 电测井图像修复
+- **论文方向**: 智能感知
 
 - **论文标题**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
 
@@ -123,7 +123,7 @@
 #### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
 
 
-- **论文方向**: 电测井图像修复
+- **论文方向**: 大模型
 
 - **论文标题**: *Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN*
 
@@ -138,7 +138,7 @@
 #### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
 
 
-- **论文方向**: 3D岩心重建
+- **论文方向**: 潜空间反演
 
 - **论文标题**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN*
 
@@ -154,7 +154,7 @@
 
 #### [DigitalRockConstruction](https://github.com/QUST-SmartData/DigitalRockConstruction)
 
-- **论文方向**: 多尺度表征
+- **论文方向**: 多尺度3D重建
 
 - **论文标题**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 
@@ -168,7 +168,7 @@
 
 #### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
-- **论文方向**: 3D岩心矿物分割
+- **论文方向**: 空间感知
 
 - **论文标题**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network*
 
@@ -182,7 +182,7 @@
 
 #### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
 
-- **论文方向**: 2D岩心裂缝分割
+- **论文方向**: 无监督学习
 
 - **论文标题**: *Unsupervised Domain Adaptation Based Fracture Segmentation Method for Core CT Images*
 
@@ -196,7 +196,7 @@
 
 #### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
 
-- **论文方向**: 3D岩心裂缝分割
+- **论文方向**: 关注连通性的自感知
 
 - **论文标题**: *Connectivity-Aware 3D Fracture Segmentation Method for Core CT Images*
 
@@ -204,13 +204,13 @@
 
 - **论文期刊**: `Engineering Applications of Artificial Intelligence, 中科院SCI 2 区 (TOP)`
 
-- **论文状态**: `With the Editor`
+- **论文状态**: `Under Review`
 
 
 
 #### [SemSR](https://github.com/QUST-SmartData/SemSR)
 
-- **论文方向**: 2D岩心超分辨
+- **论文方向**: 超分辨
 
 - **论文标题**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties*
 
@@ -223,7 +223,7 @@
 
 #### [MLDM](https://github.com/QUST-SmartData/)
 
-- **论文方向**: 多孔介质微结构生成
+- **论文方向**: 大模型
 
 - **论文标题**: *Generation of Porous Micro-structure Based on Diffusion Model*
 
@@ -237,7 +237,7 @@
 
 #### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
 
-- **论文方向**: 工业缺陷检测
+- **论文方向**: 工业AI应用
 
 - **论文标题**: *Surface defect detection method based on Deep-Learning*
 
@@ -249,12 +249,12 @@
 
 
 
-### 医学相关研究
-该分类包含与医学图像处理相关的项目，专注于提高医学图像分析的准确性和效率。
+<!-- ### 医学相关研究
+该分类包含与医学图像处理相关的项目，专注于提高医学图像分析的准确性和效率。 -->
 
 #### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
 
-- **论文方向**: 医学图像多标签疾病分类
+- **论文方向**: 医学AI应用
 
 - **论文标题**: *Multi-label Chest X-ray Image Classification Based on Long-range Dependencies Capture and Label Relationships Learning*
 
@@ -270,7 +270,7 @@
 #### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
 
 
-- **论文方向**: 多模态医学图像修复
+- **论文方向**: 医学AI应用
 
 - **论文标题**: *FSTI-GAN: Fusion of Structural and Textural Information (FSTI) in Generative Adversarial Network (GAN) to Improve Medical Image Inpainting*
 
@@ -285,7 +285,7 @@
 #### [CLECC](https://github.com/QUST-SmartData/)
 
 
-- **论文方向**: 医学超声图像分类
+- **论文方向**: 医学AI应用
 
 - **论文标题**: *Application of a course learning strategy based on structural prior and Ebbinghaus forgetting curve for ultrasound gallbladder lesion classification*
 

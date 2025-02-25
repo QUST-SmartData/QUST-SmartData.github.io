@@ -38,20 +38,20 @@ We focus on the following releated studies:
 
 | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
 |:-----------------------------------------------------:|
-| **Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
+| **Supervisor：Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   |
 
 <br>
 
 | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> Electric logging image restoration | **Qijie Huang** <br> Mineral segmentation | **Xiangxin Zhao** <br> Geological fracture segmentation |
+| **Zhaoyan Zhong** <br> Intelligent perception, Big model | **Qijie Huang** <br> Spatial perception | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception |
 
 <br>
 
 
 | <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> Multi-modal medical image restoration | **Yanxia Liu** <br> 3D core reconstruction | **Yingqi Zhang** <br> 3D core reconstruction | **Liguo Niu** <br> 2D core super-resolution | **Xuefeng Gui** <br> Industrial defect detection | **Shuyang Fan** <br> Generation of porous media |
+| **Xintao Mu** <br> Medicine AI application | **Yanxia Liu** <br> Multi-scale 3D reconstruction | **Yingqi Zhang** <br> Latent space inversion | **Liguo Niu** <br> Super-resolution | **Xuefeng Gui** <br> Industrial AI application | **Shuyang Fan** <br> Big model |
 
 
 <br>
@@ -83,6 +83,7 @@ Visiting students
 Team activities
 
 <br>
+
 <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
 <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
 <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
@@ -97,16 +98,16 @@ Team activities
 
 
 
-## Repository Introduction 
+## Iive Output
 
-### Geological Related Research
+<!-- ### Geological Related Research
 
-This category contains projects related to geological image analysis, dedicated to extracting and analyzing geological data using deep learning techniques.
+This category contains projects related to geological image analysis, dedicated to extracting and analyzing geological data using deep learning techniques. -->
 
 
 #### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
 
-- **Direction**: Electrical logging image restoration
+- **Highlight**: Intelligent perception
 
 - **Title**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
 
@@ -120,7 +121,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
 
-- **Direction**: Electrical logging image restoration
+- **Highlight**: Big model
 
 - **Title**: *Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN*
 
@@ -134,7 +135,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
 
-- **Direction**: 3D core reconstruction
+
+- **Highlight**: Latent space inversion
 
 - **Title**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN*
 
@@ -150,7 +152,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [DigitalRockConstruction](https://github.com/QUST-SmartData/DigitalRockConstruction)
 
-- **Direction**: Multiscale characterization
+- **Highlight**: Multi-scale 3D reconstruction
 
 - **Title**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
 
@@ -164,7 +166,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [DTSS](https://github.com/QUST-SmartData/DTSS)
 
-- **Direction**: 3D core mineral segmentation
+
+- **Highlight**: Spatial perception
 
 - **Title**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network*
 
@@ -178,7 +181,8 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
 
-- **Direction**: 2D core fracture segmentation
+
+- **Highlight**: Unsupervised learning
 
 - **Title**: *Unsupervised Domain Adaptation Based Fracture Segmentation Method for Core CT Images*
 
@@ -192,7 +196,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
 
-- **Direction**: 3D core fracture segmentation
+- **Highlight**: Connectivity self-perception
 
 - **Title**: *Connectivity-Aware 3D Fracture Segmentation Method for Core CT Images*
 
@@ -200,13 +204,13 @@ This category contains projects related to geological image analysis, dedicated 
 
 - **Journal**: `Engineering Applications of Artificial Intelligence, Chinese Academy of Sciences ranking Q2 (TOP)`
 
-- **Status**: `With the Editor`
+- **Status**: `Under Review`
 
 
 
 #### [SemSR](https://github.com/QUST-SmartData/SemSR)
 
-- **Direction**: 2D core super-resolution
+- **Highlight**: Super-resolution
 
 - **Title**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties*
 
@@ -219,7 +223,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [MLDM](https://github.com/QUST-SmartData/)
 
-- **Direction**: Generation of porous media
+- **Highlight**: Big model
 
 - **Title**: *Generation of Porous Micro-structure Based on Diffusion Model*
 
@@ -233,7 +237,7 @@ This category contains projects related to geological image analysis, dedicated 
 
 #### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
 
-- **Direction**: Industrial defect detection
+- **Highlight**: Industrial AI application
 
 - **Title**: *Surface defect detection method based on Deep-Learning*
 
@@ -245,12 +249,12 @@ This category contains projects related to geological image analysis, dedicated 
 
 
 
-### Medical related research
-This category contains projects related to medical image processing that focus on improving the accuracy and efficiency of medical image analysis.
+<!-- ### Medical related research
+This category contains projects related to medical image processing that focus on improving the accuracy and efficiency of medical image analysis. -->
 
 #### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
 
-- **Direction**: Medical image multi label disease classification
+- **Highlight**: Medicine AI application
 
 - **Title**: *Multi-label Chest X-ray Image Classification Based on Long-range Dependencies Capture and Label Relationships Learning*
 
@@ -266,7 +270,7 @@ This category contains projects related to medical image processing that focus o
 #### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
 
 
-- **Direction**: Multimodal medical image restoration
+- **Highlight**: Medicine AI application
 
 - **Title**: *FSTI-GAN: Fusion of Structural and Textural Information (FSTI) in Generative Adversarial Network (GAN) to Improve Medical Image Inpainting*
 
@@ -281,7 +285,7 @@ This category contains projects related to medical image processing that focus o
 #### [CLECC](https://github.com/QUST-SmartData/)
 
 
-- **Direction**: Classification of Medical Ultrasound Images
+- **Highlight**: Medicine AI application
 
 - **Title**: *Application of a course learning strategy based on structural prior and Ebbinghaus forgetting curve for ultrasound gallbladder lesion classification*
 
@@ -292,21 +296,21 @@ This category contains projects related to medical image processing that focus o
 - **Status**: `Waiting for submission`
 
 
-### Industrial Applications
+### Projects
 This category includes industrial application projects related to AI models, focusing on process automation, innovation driven solutions, and customer experience enhancement.
 
-#### [AI based municipal design software assisted system](/https://github.com/QUST-SmartData/AICAD)
+#### [AI based municipal design software assisted system](https://github.com/QUST-SmartData/AICAD)
 
 - **Introduction**: 
 This project aims to improve the efficiency and accuracy of municipal design by introducing AI technology on top of existing municipal design software in order to realize intelligent drawing functions in municipal design tasks. The project includes conducting a detailed requirements analysis, introducing applicable AI technologies, researching and training AI models, developing and integrating the software, as well as summarizing the project and accepting the results.
 
-- **Goal**: 
+- **Goals**: 
   - Intersection Identification and Intelligent Splitting: Accurately identify key road intersections in the software design drawings through AI technology, and design reasonable and efficient splitting schemes to realize drawing division.
   - Batch Replacement of Drawing Frames: Automatically replace drawing frames in batch to simplify manual processing.
   - Text input automation: automate the text input process to reduce the time-consuming manual operation.
   - Batch printing: realize batch printing of design drawings to further improve work efficiency.
 
-- **Outcome**：
+- **Results**：
 
   ![Presentation of project outcome](https://github.com/QUST-SmartData/AICAD/blob/main/img/1.png)
 
