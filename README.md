@@ -151,6 +151,7 @@ We focus on the following releated studies:
 
 <img src="team-members/welcome.png" width="600"/>
 
+<br>
 Graduate students of 2024
 
 <!-- | <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
@@ -225,7 +226,7 @@ Team activities
 </div>
 
 
-<div style="flex: 1;">
+<!-- <div style="flex: 1;"> -->
 
 ## Iive Output
 
@@ -478,4 +479,5 @@ Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.
 <br>
 
 <img src ="QRCode.png" width="300"/>
-</div>
+
+<!-- </div> -->
