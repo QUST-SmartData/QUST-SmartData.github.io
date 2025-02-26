@@ -52,7 +52,7 @@ We focus on the following releated studies:
 - 🖼️ Computer Vision
 - 🧠 Deep Learning
 - 🤖 Machine Learning
-- 🌍 Geological Image Analysis
+- 🌍 IntelliSense
 - 🏥 Medical Image Analysis
 - ⚙️ Industrial Applications of AI
 
@@ -250,7 +250,7 @@ Team activities
 
 <!-- <div class="left"> -->
 
-## Iive Output
+## Iive Outputs
 
 <!-- ### Geological Related Research
 
@@ -448,7 +448,7 @@ This category contains projects related to medical image processing that focus o
 - **Status**: `Waiting for submission`
 
 
-### Projects
+### Cooperation Projects
 This category includes industrial application projects related to AI models, focusing on process automation, innovation driven solutions, and customer experience enhancement.
 
 #### [AI based municipal design software assisted system](https://github.com/QUST-SmartData/AICAD)
