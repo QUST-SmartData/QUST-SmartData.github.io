@@ -53,7 +53,7 @@ We focus on the following releated studies:
 - 🧠 Deep Learning
 - 🤖 Machine Learning
 - 🌍 IntelliSense
-- 🏥 Medical Image Analysis
+- 🏥 Medicine AI Application
 - ⚙️ Industrial Applications of AI
 
 <!-- <div class="container">
@@ -464,7 +464,8 @@ This project aims to improve the efficiency and accuracy of municipal design by 
 
 - **Results**：
 
-  ![Presentation of project outcome](https://github.com/QUST-SmartData/AICAD/blob/main/img/1.png)
+  <!-- ![Presentation of project outcome](https://github.com/QUST-SmartData/AICAD/blob/main/img/1.png) -->
+  <img src="CAD result.png" alt="In England(3)"/> 
 
 
 
