@@ -250,7 +250,7 @@ Team activities
 
 <!-- <div class="left"> -->
 
-## Iive Outputs
+## Live Outputs
 
 <!-- ### Geological Related Research
 
