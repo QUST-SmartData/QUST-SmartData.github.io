@@ -1,507 +1,399 @@
-<!-- <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Left-Right Layout with Flexbox</title>
-  <style>
-    .container {
-      display: flex; /* 使用 Flexbox 布局 */
-      height: 100vh; /* 容器高度占满整个视口 */
-    }
-    .left {
-      width: 30%; /* 左侧宽度 */
-      background-color: #f0f0f0;
-      padding: 20px;
-      box-sizing: border-box;
-    }
-    .right {
-      width: 70%; /* 右侧宽度 */
-      background-color: #e0e0e0;
-      padding: 20px;
-      box-sizing: border-box;
-    }
-  </style>
-</head> -->
-<!-- <div align=center>
-  <pre>
-[English](README.en-US.md) | [简体中文](README.zh-CN.md)
-  </pre>
-  <a href="README.en-US.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
-</div> -->
-
-
-<div align=center>
-  <h1>SmartData</h1>
-</div>
-
-<div align=center><img src ="logo.jpg"/></div>
-
-<br/>
-
-<div align=center>
-
-Welcome to our GitHub team homepage!
-
-We aimed at studying on the artificial intellegence for the challenges on the field of studies such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
-</div>
-
-
-
-## Study
-We focus on the following releated studies: 
-
-- 🖼️ Computer Vision
-- 🧠 Deep Learning
-- 🤖 Machine Learning
-- 🌍 IntelliSense
-- 🏥 Medicine AI Application
-- ⚙️ Industrial Applications of AI
-
-<!-- <div class="container">
-<div class="left"> -->
-
-
-<!-- ## Team Members -->
-<h2>Team Members</h2>
-
-
-<div align="center">
-
-
-<!-- | <img src="team-members/Xin%20Wang.jpg" width="100"/> |
-|:-----------------------------------------------------:|
-| **Supervisor：Xin Wang**  <br> Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial Collage London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing,computer vision & artificial intelligence.   | -->
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td>
-      <img src="team-members/Xin%20Wang.jpg" width="100" alt="Xin Wang" style="display: block; margin: 0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <strong>Supervisor: Xin Wang</strong><br>
-      Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial College London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing, computer vision & artificial intelligence.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- | <img src="team-members/Zhaoyan Zhong.jpg" width="100"/> | <img src="team-members/Qijie Huang.jpg" width="100"/> | <img src="team-members/Xiangxin Zhao.jpg" width="100"/>  |
-|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| **Zhaoyan Zhong** <br> IntelliSense, Big model | **Qijie Huang** <br> Spacial awareness | **Xiangxin Zhao** <br> Unsupervised learning, Self-perception | -->
-<table align="center" border="1" width="100%">
-  <tr>
-    <td align="center">
-      <img src="team-members/Zhaoyan Zhong.jpg" width="100" alt="Zhaoyan Zhong">
-    </td>
-    <td align="center">
-      <img src="team-members/Qijie Huang.jpg" width="100" alt="Qijie Huang">
-    </td>
-    <td align="center">
-      <img src="team-members/Xiangxin Zhao.jpg" width="100" alt="Xiangxin Zhao">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Zhaoyan Zhong</strong><br>IntelliSense, Big model
-    </td>
-    <td align="center">
-      <strong>Qijie Huang</strong><br>Spacial awareness
-    </td>
-    <td align="center">
-      <strong>Xiangxin Zhao</strong><br>Unsupervised learning, Self-perception
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-<!-- | <img src="team-members/Xintao Mu.jpg" width="100"/>  | <img src="team-members/Yanxia Liu.jpg" width="100"/> | <img src="team-members/Yingqi Zhang.jpg" width="100"/> | <img src="team-members/Liguo Niu.jpg" width="100"/>  | <img src="team-members/Xuefeng Gui.jpg" width="100"/>  | <img src="team-members/Shuyang Fan.jpg" width="100"/> |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Xintao Mu** <br> Medicine AI application | **Yanxia Liu** <br> Multi-scale 3D reconstruction | **Yingqi Zhang** <br> Latent space inversion | **Liguo Niu** <br> Super-resolution | **Xuefeng Gui** <br> Industrial AI application | **Shuyang Fan** <br> Big model | -->
-<table align="center" border="1" width="100%">
-  <tr>
-    <td align="center">
-      <img src="team-members/Xintao Mu.jpg" width="100" alt="Xintao Mu">
-    </td>
-    <td align="center">
-      <img src="team-members/Yanxia Liu.jpg" width="100" alt="Yanxia Liu">
-    </td>
-    <td align="center">
-      <img src="team-members/Yingqi Zhang.jpg" width="100" alt="Yingqi Zhang">
-    </td>
-    <td align="center">
-      <img src="team-members/Liguo Niu.jpg" width="100" alt="Liguo Niu">
-    </td>
-    <td align="center">
-      <img src="team-members/Xuefeng Gui.jpg" width="100" alt="Xuefeng Gui">
-    </td>
-    <td align="center">
-      <img src="team-members/Shuyang Fan.jpg" width="100" alt="Shuyang Fan">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Xintao Mu</strong><br>Medicine AI application
-    </td>
-    <td align="center">
-      <strong>Yanxia Liu</strong><br>Multi-scale 3D reconstruction
-    </td>
-    <td align="center">
-      <strong>Yingqi Zhang</strong><br>Latent space inversion
-    </td>
-    <td align="center">
-      <strong>Liguo Niu</strong><br>Super-resolution
-    </td>
-    <td align="center">
-      <strong>Xuefeng Gui</strong><br>Industrial AI application
-    </td>
-    <td align="center">
-      <strong>Shuyang Fan</strong><br>Big model
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-<img src="team-members/teams.jpg" width="600"/>
-
-<br>
-<br>
-
-<img src="team-members/welcome.png" width="600"/>
-
-<br>
-Graduate students of 2024
-
-<!-- | <img src="team-members/Jia Wang.jpg" width="100"/> | <img src="team-members/Jiawei Li.jpg" width="100"/> | <img src="team-members/Jialu Chen.jpg" width="100"/> | <img src="team-members/Lidong Zhou.jpg" width="100"/> | <img src="team-members/Yang Li.jpg" width="100"/> |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Jia Wang** | **Jiawei Li** | **Jialu Chen** | **Lidong Zhou** | **Yang Li** | -->
-<table align="center" border="1" width="100%">
-  <tr>
-    <td align="center">
-      <img src="team-members/Jia Wang.jpg" width="100" alt="Jia Wang">
-    </td>
-    <td align="center">
-      <img src="team-members/Jiawei Li.jpg" width="100" alt="Jiawei Li">
-    </td>
-    <td align="center">
-      <img src="team-members/Jialu Chen.jpg" width="100" alt="Jialu Chen">
-    </td>
-    <td align="center">
-      <img src="team-members/Lidong Zhou.jpg" width="100" alt="Lidong Zhou">
-    </td>
-    <td align="center">
-      <img src="team-members/Yang Li.jpg" width="100" alt="Yang Li">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Jia Wang</strong></td>
-    <td align="center"><strong>Jiawei Li</strong></td>
-    <td align="center"><strong>Jialu Chen</strong></td>
-    <td align="center"><strong>Lidong Zhou</strong></td>
-    <td align="center"><strong>Yang Li</strong></td>
-  </tr>
-</table>
-
-<br>
-
-Visiting students
-
-<!-- | <img src="team-members/Ruixi Jing.jpg" width="100"/> | <img src="team-members/Fuzhi Wan.jpg" width="100"/> |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| **Ruixi Jing** | **Fuzhi Wan** | -->
-<table border="1" width="100%">
-  <tr>
-    <td align="center">
-      <img src="team-members/Ruixi Jing.jpg" width="100" alt="Ruixi Jing">
-    </td>
-    <td align="center">
-      <img src="team-members/Fuzhi Wan.jpg" width="100" alt="Fuzhi Wan">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ruixi Jing</strong></td>
-    <td align="center"><strong>Fuzhi Wan</strong></td>
-  </tr>
-</table>
-
-
-<br>
-
-Team activities
-
-<br>
-
-<img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
-<img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" width="150" height="100" style="margin: 5px; object-fit: cover;"/>  <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/聚餐1.jpg" alt="聚餐1" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/聚餐2.jpg" alt="聚餐2" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;"/>
-<img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;"/> 
-
-</div>
-
-
-<!-- <div class="left"> -->
-
-## Live Outputs
-
-<!-- ### Geological Related Research
-
-This category contains projects related to geological image analysis, dedicated to extracting and analyzing geological data using deep learning techniques. -->
-
-
-#### [GeoDeepGenerativePrior](https://github.com/QUST-SmartData/GeoDeepGenerativePrior)
-
-- **Highlight**: IntelliSense
-
-- **Title**: *Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting*
-
-- **Introduction**: We proposed a deep learning approach that utilizes generative adversarial networks (GAN) and feature extraction fusion module to enhance the continuity and integrity of logging image restoration and effectively extract cracks, gravel structures and fine-grained texture features, thereby improving the accuracy and robustness of geologic tectonic analysis.
-
-- **Journal**: `GEOPHYSICS, Chinese Academy of Sciences ranking Q2 (TOP)`
-
-- **Link**: [paper](https://doi.org/10.1190/geo2023-0418.1)
-
-
-
-#### [FPEM-GAN](https://github.com/QUST-SmartData/FPEM-GAN)
-
-- **Highlight**: Big model
-
-- **Title**: *Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN*
-
-- **Introduction**: We proposed a deep learning method to efficiently repair missing regions in logging images by means of pseudo-label training, perspective enhancement module and SM-Unet discriminator, which especially improves the reconstruction quality of high-angle cracks and fine-grained texture features while reducing the computational cost.
-
-- **Journal**: `COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2`
-
-- **Link**: [paper](https://doi.org/10.1016/j.cageo.2024.105812)
-
-
-
-#### [ADA-PGGAN](https://github.com/QUST-SmartData/ADA-PGGAN)
-
-
-- **Highlight**: Latent space inversion
-
-- **Title**: *For Any Two Arbitrary Slices from One Digital Rock , Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN*
-
-- **Introduction**: We proposed a novel feature distribution learning and adaptive data enhancement framework based on the generative model GAN, which successfully reconstructs high-quality large-scale 3D digital rocks in data-scarce environments and validates its accuracy and consistency by multiple metrics , the code for free same as before but please firstly contact 03774@qust.edu.cn
-
-- **Journal**: `COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2`
-
-<!-- - **Status**: `Accepted` https://www.sciencedirect.com/science/article/abs/pii/S0098300425000214 -->
-
-- **Link**: [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300425000214)
-
-
-
-#### [DigitalRockConstruction](https://github.com/QUST-SmartData/DigitalRockConstruction)
-
-- **Highlight**: Multi-scale 3D reconstruction
-
-- **Title**: *Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models*
-
-- **Introduction**: We proposed a new generative modeling framework that integrates coarse- and fine-scale information through two networks to effectively model the multiscale structure of porous media and enhance the efficiency and practicality of digital rock reconstruction.
-
-- **Journal**: `Environmental Modelling and Software, Chinese Academy of Sciences ranking Q2`
-
-- **Status**: `Under Review`
-
-
-
-#### [DTSS](https://github.com/QUST-SmartData/DTSS)
-
-
-- **Highlight**: Spacial awareness
-
-- **Title**: *A Novel Workflow of  Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network*
-
-- **Introduction**: Our proposed DTSS workflow combines AttentionGAN and Swin Transformer to achieve accurate recognition of mineral features in complex rock images through effective domain transformation and image segmentation.
-
-- **Journal**: `Marine and Petroleum Geology, Chinese Academy of Sciences ranking Q2 (TOP)`
-
-- **Status**: `Waiting for submission`
-
-
-
-#### [UDAFractureSeg](https://github.com/QUST-SmartData/UDAFractureSeg)
-
-
-- **Highlight**: Unsupervised learning
-
-- **Title**: *Unsupervised Domain Adaptation Based Fracture Segmentation Method for Core CT Images*
-
-- **Introduction**: We propose an adaptive core fracture segmentation method based on unsupervised domain adaptation, which combines style migration and collaborative learning to improve the accuracy and robustness of fracture segmentation in CT images of cores from different geological sources.
-
-- **Journal**: `Expert Systems With Applications, Chinese Academy of Sciences ranking Q1 (TOP)`
-
-- **Link**: [paper](https://doi.org/10.1016/j.eswa.2024.125857)
-
-
-
-#### [FractureSeg3D](https://github.com/QUST-SmartData/FractureSeg3D)
-
-- **Highlight**: Connectivity self-perception
-
-- **Title**: *Connectivity-Aware 3D Fracture Segmentation Method for Core CT Images*
-
-- **Introduction**: We proposed a new fracture segmentation method for 3D core CT images, which utilizes a 3D multilayer Transformer network to capture long-range dependency and spatial continuity features, and combines dynamic weighting and multiscale context-aware fusion to significantly improve the recognition of spatial structural connectivity of fractures.
-
-- **Journal**: `Engineering Applications of Artificial Intelligence, Chinese Academy of Sciences ranking Q2 (TOP)`
-
-- **Status**: `Under Review`
-
-
-
-#### [SemSR](https://github.com/QUST-SmartData/SemSR)
-
-- **Highlight**: Super-resolution
-
-- **Title**: *A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties*
-
-- **Introduction**: We proposed a super-resolution method based on generative adversarial networks, combining semantic sharing mechanism and fuzzy noise, in order to improve the recovery of pore wall features and overcome the limitations of traditional methods when dealing with low-resolution images, thus improving the generalization ability of the model under complex geological features.
-
-- **Journal**: `Engineering Applications of Artificial Intelligence, Chinese Academy of Sciences ranking Q2 (TOP)`
-
-- **Status**: `Under Review`
-
-
-#### [MLDM](https://github.com/QUST-SmartData/)
-
-- **Highlight**: Big model
-
-- **Title**: *Generation of Porous Micro-structure Based on Diffusion Model*
-
-- **Introduction**: We proposed an improved diffusion modeling network that generates rich porous structures while reducing the resolution of diffusion modeling multisamples by performing structural reconstruction and structural generation in stages, taking advantage of the dimensionality reduction capability of the self-encoder and the rich generative capability of diffusion models.
-
-- **Journal**: `pending`
-
-- **Status**: `Manuscript Drafting`
-
-
-
-#### [SurfaceDefectDetectionYolov8](https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8)
-
-- **Highlight**: Industrial AI application
-
-- **Title**: *Surface defect detection method based on Deep-Learning*
-
-- **Introduction**: In the process of small target detection, for the problem of similar defects caused by different generation mechanisms, this paper introduced a mechanism that fuses spatial attention (SA) and coordinate attention (CA). We designed a new aggregation and redistribution network model to solve the problem of small target feature loss. Meanwhile, for the boundary loss problem in small target detection, a new DOS loss function is proposed to ensure the smoothness of the small target position deviation, so as to improve the small target detection effect comprehensively.
-
-- **Journal**: `pending`
-
-- **Status**: `Manuscript Drafting`
-
-
-
-<!-- ### Medical related research
-This category contains projects related to medical image processing that focus on improving the accuracy and efficiency of medical image analysis. -->
-
-#### [CXRClassification](https://github.com/QUST-SmartData/CXRClassification)
-
-- **Highlight**: Medicine AI application
-
-- **Title**: *Multi-label Chest X-ray Image Classification Based on Long-range Dependencies Capture and Label Relationships Learning*
-
-- **Introduction**: We proposed a deep learning method combining large kernel convolutional and graph convolutional networks to improve the disease diagnosis accuracy of chest X-ray images through anatomical segmentation and label co-occurrence relations.
-
-- **Journal**: `Biomedical Signal Processing and Control, Chinese Academy of Sciences ranking Q2`
-
-- **Link**: [paper](https://doi.org/10.1016/j.bspc.2024.107018)
-
-
-
-
-#### [FSTI-GAN](https://github.com/QUST-SmartData/FSTI-GAN)
-
-
-- **Highlight**: Medicine AI application
-
-- **Title**: *FSTI-GAN: Fusion of Structural and Textural Information (FSTI) in Generative Adversarial Network (GAN) to Improve Medical Image Inpainting*
-
-- **Introduction**: We proposed an improved dual-stream parallel embedding network to improve the quality of image restoration by performing structural reconstruction and texture reconstruction in stages, utilizing FSTI Block to achieve global consistency of structural and texture information, and enhancing the contextual reasoning ability to effectively address the impact of poor structural and texture information on restoration results.
-
-- **Journal**: `IEEE Transactions on Medical Imaging, Chinese Academy of Sciences ranking Q1 (TOP)`
-
-- **Status**: `Waiting for submission`
-
-
-
-#### [CLECC](https://github.com/QUST-SmartData/)
-
-
-- **Highlight**: Medicine AI application
-
-- **Title**: *Application of a course learning strategy based on structural prior and Ebbinghaus forgetting curve for ultrasound gallbladder lesion classification*
-
-- **Introduction**: In ultrasound images, traditional deep learning models face challenges in classifying gallbladder lesions due to the high similarity in texture features between gallbladder tissue and surrounding soft tissue. To address this issue, this paper proposes a curriculum learning and training strategy that combines structural priors and Ebbinghaus forgetting curves. Inspired by the development of human visual acuity, we use the Relative Total Variance (RTV) method to extract structural priors from images, replacing traditional Gaussian blur processing, to more effectively separate texture and structural information, guiding the model to focus on key anatomical structural features. At the same time, a course learning strategy was designed based on the Ebbinghaus forgetting curve to optimize the learning process of the model and enhance its ability to remember and discriminate key features. The experimental results show that this method has achieved significant results in improving the accuracy and robustness of gallbladder lesion classification, providing strong support for automatic diagnosis of ultrasound images.
-
-- **Journal**: `IEEE Transactions on Medical Imaging, Chinese Academy of Sciences ranking Q1 (TOP)`
-
-- **Status**: `Waiting for submission`
-
-
-### Cooperation Projects
-This category includes industrial application projects related to AI models, focusing on process automation, innovation driven solutions, and customer experience enhancement.
-
-#### [AI based municipal design software assisted system](https://github.com/QUST-SmartData/AICAD)
-
-- **Introduction**: 
-This project aims to improve the efficiency and accuracy of municipal design by introducing AI technology on top of existing municipal design software in order to realize intelligent drawing functions in municipal design tasks. The project includes conducting a detailed requirements analysis, introducing applicable AI technologies, researching and training AI models, developing and integrating the software, as well as summarizing the project and accepting the results.
-
-- **Goals**: 
-  - Intersection Identification and Intelligent Splitting: Accurately identify key road intersections in the software design drawings through AI technology, and design reasonable and efficient splitting schemes to realize drawing division.
-  - Batch Replacement of Drawing Frames: Automatically replace drawing frames in batch to simplify manual processing.
-  - Text input automation: automate the text input process to reduce the time-consuming manual operation.
-  - Batch printing: realize batch printing of design drawings to further improve work efficiency.
-
-- **Results**：
-
-  <!-- ![Presentation of project outcome](https://github.com/QUST-SmartData/AICAD/blob/main/img/1.png) -->
-  <img src="CAD result.png" alt="In England(3)"/> 
-
-
-
-
-## Language and Tools
-
-<p>
-  <img width="30%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
-  
-  <br />
-  <img width="30%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-  <br />
-  <img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-  <img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
-
-</p>
-
-
-## Statistical Information
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=QUST-SmartData&theme=ambient_gradient&show_icons=true&hide_border=true">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUST-SmartData&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=donut&theme=ambient_gradient">
-
-## Contact us
-
-Please contact the team leader [Xin Wang (03774@qust.edu.cn)](mailto:03774@qust.edu.cn) with any questions or interest in collaboration.
-
-<br>
-
-<img src ="QRCode.png" width="300"/>
-
-<!-- </div>
-</div> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>水平三块布局</title>
+    <style>
+        /* 设置整体布局的容器 */
+        .container {
+            display: flex; /* 使用flex布局实现水平排列 */
+            justify-content: space-between; /* 使三个块均匀分布 */
+            align-items: stretch; /* 使三个块高度一致 */
+            width: 100%; /* 容器宽度占满整个屏幕 */
+            padding: 10px; /* 添加一些内边距 */
+        }
+
+        /* 设置每个块的样式 */
+        .block {
+            flex: 1; /* 每个块占据相等的空间 */
+            margin: 0 10px; /* 块之间的间距 */
+            padding: 20px; /* 块内部的间距 */
+            border: 1px solid #ccc; /* 添加边框以便区分 */
+            background-color: #f9f9f9; /* 背景颜色 */
+            /*text-align: center;*/ /* 文本居中对齐 */
+        }
+
+            /* 针对第一个和第三个块的特殊样式 */
+            .block:first-child {
+                background-color: #e6f7ff; /* 第一个块的背景颜色 */
+            }
+
+            .block:last-child {
+                background-color: #ffe6e6; /* 第三个块的背景颜色 */
+            }
+            /* 新增的顶部块样式 */
+            .top-block {
+                margin: 10px; /* 添加一些外边距 */
+                padding: 20px; /* 添加一些内边距 */
+                border: 1px solid #ccc; /* 添加边框以便区分 */
+                background-color: #f9f9f9; /* 背景颜色 */
+                text-align: center; /* 文本居中对齐 */
+            }
+            /* 底部*/
+            .bottom-block {
+                margin: 10px; /* 添加一些外边距 */
+                padding: 20px; /* 添加一些内边距 */
+                border: 1px solid #ccc; /* 添加边框以便区分 */
+                background-color: #f9f9f9; /* 背景颜色 */
+                text-align: center; /* 文本居中对齐 */
+            }
+            .list-item {
+                margin-bottom: 10px;
+            }
+
+            .emoji {
+                margin-right: 10px;
+            }
+    </style>
+</head>
+<body>
+    <div class="top-block">
+        <h1>SmartData</h1>
+        <img src="logo.jpg" />
+        Welcome to our GitHub team homepage!
+        <br>
+
+        We aimed at studying on the artificial intellegence for the challenges on the field of studies such as geology and medicine, and solving practical problems through deep learning and computer vision technology.
+
+
+        <h2 style="text-align: left;">Study</h2>
+        <h3 style="text-align: left;">We focus on the following related studies:</h3>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">🖼️</span>Computer Vision
+        </div>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">🧠</span>Deep Learning
+        </div>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">🤖</span>Machine Learning
+        </div>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">🌍</span>IntelliSense
+        </div>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">🏥</span>Medicine AI Application
+        </div>
+        <div class="list-item" style="text-align: left;">
+            <span class="emoji">⚙️</span>Industrial Applications of AI
+        </div>
+
+    </div>
+    <div class="container">
+        <!-- 第一个块 -->
+        <div class="block">
+
+            <h2 style="text-align: left;">Team Members</h2>
+            <table style="width: 100%; text-align: center;">
+                <tr>
+                    <td>
+                        <img src="team-members/Xin%20Wang.jpg" width="100" alt="Xin Wang" style="display: block; margin: 0 auto;">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">
+                        <strong>Supervisor: Xin Wang</strong><br>
+                        Wang Xin received his Ph.D. degree from China University of Petroleum, China, in 2013. Currently working as Associate Professor for School of Information Science and Technology, Qingdao University of Science and Technology, China. He was the director of Pore-scale Imaging Lab in Qingdao City from 2017 to 2020, also a doctoral supervisor of Graduate School of International Studies, Shandong Academy of Sciences in 2018-2020. He was a visiting scientist at Imperial College London, Herriot-Watt University and Far East Branch Russian Academy of Sciences. He participated in the National Joint-Scientific Expedition team with Russia and Japan in the year of 2016 and 2017. His research interests include 2D&3D image processing, computer vision & artificial intelligence.
+                    </td>
+                </tr>
+            </table>
+
+            <br>
+            <table align="center" border="1" width="100%">
+                <tr>
+                    <td align="center">
+                        <img src="team-members/Zhaoyan Zhong.jpg" width="100" alt="Zhaoyan Zhong">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Qijie Huang.jpg" width="100" alt="Qijie Huang">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Xiangxin Zhao.jpg" width="100" alt="Xiangxin Zhao">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <strong>Zhaoyan Zhong</strong><br>IntelliSense, Big model
+                    </td>
+                    <td align="center">
+                        <strong>Qijie Huang</strong><br>Spacial awareness
+                    </td>
+                    <td align="center">
+                        <strong>Xiangxin Zhao</strong><br>Unsupervised learning, Self-perception
+                    </td>
+                </tr>
+            </table>
+
+            <br>
+
+            <table align="center" border="1" width="100%">
+                <tr>
+                    <td align="center">
+                        <img src="team-members/Xintao Mu.jpg" width="100" alt="Xintao Mu">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Yanxia Liu.jpg" width="100" alt="Yanxia Liu">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Yingqi Zhang.jpg" width="100" alt="Yingqi Zhang">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Liguo Niu.jpg" width="100" alt="Liguo Niu">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Xuefeng Gui.jpg" width="100" alt="Xuefeng Gui">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Shuyang Fan.jpg" width="100" alt="Shuyang Fan">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <strong>Xintao Mu</strong><br>Medicine AI application
+                    </td>
+                    <td align="center">
+                        <strong>Yanxia Liu</strong><br>Multi-scale 3D reconstruction
+                    </td>
+                    <td align="center">
+                        <strong>Yingqi Zhang</strong><br>Latent space inversion
+                    </td>
+                    <td align="center">
+                        <strong>Liguo Niu</strong><br>Super-resolution
+                    </td>
+                    <td align="center">
+                        <strong>Xuefeng Gui</strong><br>Industrial AI application
+                    </td>
+                    <td align="center">
+                        <strong>Shuyang Fan</strong><br>Big model
+                    </td>
+                </tr>
+            </table>
+
+
+            <br>
+
+            <img src="team-members/teams.jpg" width="600" />
+
+            <br>
+            <br>
+
+            <img src="team-members/welcome.png" width="600" />
+
+            <br>
+            Graduate students of 2024
+
+            <table align="center" border="1" width="100%">
+                <tr>
+                    <td align="center">
+                        <img src="team-members/Jia Wang.jpg" width="100" alt="Jia Wang">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Jiawei Li.jpg" width="100" alt="Jiawei Li">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Jialu Chen.jpg" width="100" alt="Jialu Chen">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Lidong Zhou.jpg" width="100" alt="Lidong Zhou">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Yang Li.jpg" width="100" alt="Yang Li">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><strong>Jia Wang</strong></td>
+                    <td align="center"><strong>Jiawei Li</strong></td>
+                    <td align="center"><strong>Jialu Chen</strong></td>
+                    <td align="center"><strong>Lidong Zhou</strong></td>
+                    <td align="center"><strong>Yang Li</strong></td>
+                </tr>
+            </table>
+
+            <br>
+
+            Visiting students
+
+            <table border="1" width="100%">
+                <tr>
+                    <td align="center">
+                        <img src="team-members/Ruixi Jing.jpg" width="100" alt="Ruixi Jing">
+                    </td>
+                    <td align="center">
+                        <img src="team-members/Fuzhi Wan.jpg" width="100" alt="Fuzhi Wan">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><strong>Ruixi Jing</strong></td>
+                    <td align="center"><strong>Fuzhi Wan</strong></td>
+                </tr>
+            </table>
+
+            <br>
+            Team activities
+            <br>
+            <img src="team-activities/In Aspen.jpg" alt="In Aspen" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/In HWU,Edingburg.jpg" alt="In HWU, Edingburg" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/in NTNU,Trondheim.jpg" alt="In NTNU, Trondheim" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/with Martin in ICL.jpg" alt="With Martin in ICL" width="150" height="100" style="margin: 5px; object-fit: cover;" />  <img src="team-activities/帝国理工时期.jpg" alt="帝国理工时期" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/聚餐1.jpg" alt="聚餐1" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/聚餐2.jpg" alt="聚餐2" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/Joint Expedition with RAS.jpg" alt="Joint Expedition with RAS" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/In England(1).jpg" alt="In England(1)" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+            <img src="team-activities/In England(3).jpg" alt="In England(3)" width="150" height="100" style="margin: 5px; object-fit: cover;" />
+        </div>
+
+        <!-- 第二个块 -->
+        <div class="block">
+            <h2 style="text-align: left;">Live Outputs</h2>
+            <h3><a href="https://github.com/QUST-SmartData/GeoDeepGenerativePrior">GeoDeepGenerativePrior</a></h3>
+            <p><strong>Highlight</strong>: IntelliSense</p>
+            <p><strong>Title</strong>: <em>Prior-Guide Adaptive Gan Method for Various Borehole Image Inpainting</em></p>
+            <p><strong>Introduction</strong>: We proposed a deep learning approach that utilizes generative adversarial networks (GAN) and feature extraction fusion module to enhance the continuity and integrity of logging image restoration and effectively extract cracks, gravel structures and fine-grained texture features, thereby improving the accuracy and robustness of geologic tectonic analysis.</p>
+            <p><strong>Journal</strong>: <code>GEOPHYSICS, Chinese Academy of Sciences ranking Q2 (TOP)</code></p>
+            <p><strong>Link</strong>: <a href="https://doi.org/10.1190/geo2023-0418.1">paper</a></p>
+
+
+            <h3><a href="https://github.com/QUST-SmartData/FPEM-GAN">FPEM-GAN</a></h3>
+            <p><strong>Highlight</strong>: Big model</p>
+            <p><strong>Title</strong>: <em>Efficient Image Inpainting of Microresistivity Logs: A DDPM-Based Pseudo-Labeling Approach with FPEM-GAN</em></p>
+            <p><strong>Introduction</strong>: We proposed a deep learning method to efficiently repair missing regions in logging images by means of pseudo-label training, perspective enhancement module and SM-Unet discriminator, which especially improves the reconstruction quality of high-angle cracks and fine-grained texture features while reducing the computational cost.</p>
+            <p><strong>Journal</strong>: <code>COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2</code></p>
+            <p><strong>Link</strong>: <a href="https://doi.org/10.1016/j.cageo.2024.105812">paper</a></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/ADA-PGGAN">ADA-PGGAN</a></h3>
+            <p><strong>Highlight</strong>: Latent space inversion</p>
+            <p><strong>Title</strong>: <em>For Any Two Arbitrary Slices from One Digital Rock, Its Twins Can be Fast Stably Reconstructed: A Novel Integrated Model of RVION with ADA-PGGAN</em></p>
+            <p><strong>Introduction</strong>: We proposed a novel feature distribution learning and adaptive data enhancement framework based on the generative model GAN, which successfully reconstructs high-quality large-scale 3D digital rocks in data-scarce environments and validates its accuracy and consistency by multiple metrics. The code is available for free, but please contact 03774@qust.edu.cn first.</p>
+            <p><strong>Journal</strong>: <code>COMPUTERS & GEOSCIENCES, Chinese Academy of Sciences ranking Q2</code></p>
+            <p><strong>Link</strong>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0098300425000214">paper</a></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/DigitalRockConstruction">DigitalRockConstruction</a></h3>
+            <p><strong>Highlight</strong>: Multi-scale 3D reconstruction</p>
+            <p><strong>Title</strong>: <em>Integrating Sub-Scale Components Across Existing Scales in 3D Porous Media: A Novel Approach Combining Generative Artificial Intelligence Models</em></p>
+            <p><strong>Introduction</strong>: We proposed a new generative modeling framework that integrates coarse- and fine-scale information through two networks to effectively model the multiscale structure of porous media and enhance the efficiency and practicality of digital rock reconstruction.</p>
+            <p><strong>Journal</strong>: <code>Environmental Modelling and Software, Chinese Academy of Sciences ranking Q2</code></p>
+            <p><strong>Status</strong>: <code>Under Review</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/DTSS">DTSS</a></h3>
+            <p><strong>Highlight</strong>: Spacial awareness</p>
+            <p><strong>Title</strong>: <em>A Novel Workflow of Segmentation for Finer Mineral Distingished: AttentionGAN-Swin-Transformer Fused Network</em></p>
+            <p><strong>Introduction</strong>: Our proposed DTSS workflow combines AttentionGAN and Swin Transformer to achieve accurate recognition of mineral features in complex rock images through effective domain transformation and image segmentation.</p>
+            <p><strong>Journal</strong>: <code>Marine and Petroleum Geology, Chinese Academy of Sciences ranking Q2 (TOP)</code></p>
+            <p><strong>Status</strong>: <code>Waiting for submission</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/UDAFractureSeg">UDAFractureSeg</a></h3>
+            <p><strong>Highlight</strong>: Unsupervised learning</p>
+            <p><strong>Title</strong>: <em>Unsupervised Domain Adaptation Based Fracture Segmentation Method for Core CT Images</em></p>
+            <p><strong>Introduction</strong>: We propose an adaptive core fracture segmentation method based on unsupervised domain adaptation, which combines style migration and collaborative learning to improve the accuracy and robustness of fracture segmentation in CT images of cores from different geological sources.</p>
+            <p><strong>Journal</strong>: <code>Expert Systems With Applications, Chinese Academy of Sciences ranking Q1 (TOP)</code></p>
+            <p><strong>Link</strong>: <a href="https://doi.org/10.1016/j.eswa.2024.125857">paper</a></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/FractureSeg3D">FractureSeg3D</a></h3>
+            <p><strong>Highlight</strong>: Connectivity self-perception</p>
+            <p><strong>Title</strong>: <em>Connectivity-Aware 3D Fracture Segmentation Method for Core CT Images</em></p>
+            <p><strong>Introduction</strong>: We proposed a new fracture segmentation method for 3D core CT images, which utilizes a 3D multilayer Transformer network to capture long-range dependency and spatial continuity features, and combines dynamic weighting and multiscale context-aware fusion to significantly improve the recognition of spatial structural connectivity of fractures.</p>
+            <p><strong>Journal</strong>: <code>Engineering Applications of Artificial Intelligence, Chinese Academy of Sciences ranking Q2 (TOP)</code></p>
+            <p><strong>Status</strong>: <code>Under Review</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/SemSR">SemSR</a></h3>
+            <p><strong>Highlight</strong>: Super-resolution</p>
+            <p><strong>Title</strong>: <em>A Super-resolution Framework with Semantic Guidance for Restoring Pore-Solid Interface Roughness to Enhance the Accuracy of Digital Rock Transport Properties</em></p>
+            <p><strong>Introduction</strong>: We proposed a super-resolution method based on generative adversarial networks, combining semantic sharing mechanism and fuzzy noise, in order to improve the recovery of pore wall features and overcome the limitations of traditional methods when dealing with low-resolution images, thus improving the generalization ability of the model under complex geological features.</p>
+            <p><strong>Journal</strong>: <code>Engineering Applications of Artificial Intelligence, Chinese Academy of Sciences ranking Q2 (TOP)</code></p>
+            <p><strong>Status</strong>: <code>Under Review</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/">MLDM</a></h3>
+            <p><strong>Highlight</strong>: Big model</p>
+            <p><strong>Title</strong>: <em>Generation of Porous Micro-structure Based on Diffusion Model</em></p>
+            <p><strong>Introduction</strong>: We proposed an improved diffusion modeling network that generates rich porous structures while reducing the resolution of diffusion modeling multisamples by performing structural reconstruction and structural generation in stages, taking advantage of the dimensionality reduction capability of the self-encoder and the rich generative capability of diffusion models.</p>
+            <p><strong>Journal</strong>: <code>pending</code></p>
+            <p><strong>Status</strong>: <code>Manuscript Drafting</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/SurfaceDefectDetectionYolov8">SurfaceDefectDetectionYolov8</a></h3>
+            <p><strong>Highlight</strong>: Industrial AI application</p>
+            <p><strong>Title</strong>: <em>Surface defect detection method based on Deep-Learning</em></p>
+            <p><strong>Introduction</strong>: In the process of small target detection, for the problem of similar defects caused by different generation mechanisms, this paper introduced a mechanism that fuses spatial attention (SA) and coordinate attention (CA). We designed a new aggregation and redistribution network model to solve the problem of small target feature loss. Meanwhile, for the boundary loss problem in small target detection, a new DOS loss function is proposed to ensure the smoothness of the small target position deviation, so as to improve the small target detection effect comprehensively.</p>
+            <p><strong>Journal</strong>: <code>pending</code></p>
+            <p><strong>Status</strong>: <code>Manuscript Drafting</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/CXRClassification">CXRClassification</a></h3>
+            <p><strong>Highlight</strong>: Medicine AI application</p>
+            <p><strong>Title</strong>: <em>Multi-label Chest X-ray Image Classification Based on Long-range Dependencies Capture and Label Relationships Learning</em></p>
+            <p><strong>Introduction</strong>: We proposed a deep learning method combining large kernel convolutional and graph convolutional networks to improve the disease diagnosis accuracy of chest X-ray images through anatomical segmentation and label co-occurrence relations.</p>
+            <p><strong>Journal</strong>: <code>Biomedical Signal Processing and Control, Chinese Academy of Sciences ranking Q2</code></p>
+            <p><strong>Link</strong>: <a href="https://doi.org/10.1016/j.bspc.2024.107018">paper</a></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/FSTI-GAN">FSTI-GAN</a></h3>
+            <p><strong>Highlight</strong>: Medicine AI application</p>
+            <p><strong>Title</strong>: <em>FSTI-GAN: Fusion of Structural and Textural Information (FSTI) in Generative Adversarial Network (GAN) to Improve Medical Image Inpainting</em></p>
+            <p><strong>Introduction</strong>: We proposed an improved dual-stream parallel embedding network to improve the quality of image restoration by performing structural reconstruction and texture reconstruction in stages, utilizing FSTI Block to achieve global consistency of structural and texture information, and enhancing the contextual reasoning ability to effectively address the impact of poor structural and texture information on restoration results.</p>
+            <p><strong>Journal</strong>: <code>IEEE Transactions on Medical Imaging, Chinese Academy of Sciences ranking Q1 (TOP)</code></p>
+            <p><strong>Status</strong>: <code>Waiting for submission</code></p>
+
+            <h3><a href="https://github.com/QUST-SmartData/">CLECC</a></h3>
+            <p><strong>Highlight</strong>: Medicine AI application</p>
+            <p><strong>Title</strong>: <em>Application of a course learning strategy based on structural prior and Ebbinghaus forgetting curve for ultrasound gallbladder lesion classification</em></p>
+            <p><strong>Introduction</strong>: In ultrasound images, traditional deep learning models face challenges in classifying gallbladder lesions due to the high similarity in texture features between gallbladder tissue and surrounding soft tissue. To address this issue, this paper proposes a curriculum learning and training strategy that combines structural priors and Ebbinghaus forgetting curves. Inspired by the development of human visual acuity, we use the Relative Total Variance (RTV) method to extract structural priors from images, replacing traditional Gaussian blur processing, to more effectively separate texture and structural information, guiding the model to focus on key anatomical structural features. At the same time, a course learning strategy was designed based on the Ebbinghaus forgetting curve to optimize the learning process of the model and enhance its ability to remember and discriminate key features. The experimental results show that this method has achieved significant results in improving the accuracy and robustness of gallbladder lesion classification, providing strong support for automatic diagnosis of ultrasound images.</p>
+            <p><strong>Journal</strong>: <code>IEEE Transactions on Medical Imaging, Chinese Academy of Sciences ranking Q1 (TOP)</code></p>
+            <p><strong>Status</strong>: <code>Waiting for submission</code></p>
+        </div>
+
+        <!-- 第三个块 -->
+        <div class="block">
+            <h2 style="text-align: left;">Cooperation Projects</h2>
+            This category includes industrial application projects related to AI models, focusing on process automation, innovation driven solutions, and customer experience enhancement.
+            <h3><a href="https://github.com/QUST-SmartData/AICAD">AI based municipal design software assisted system</a></h3>
+            <p><strong>Introduction</strong>: This project aims to improve the efficiency and accuracy of municipal design by introducing AI technology on top of existing municipal design software in order to realize intelligent drawing functions in municipal design tasks. The project includes conducting a detailed requirements analysis, introducing applicable AI technologies, researching and training AI models, developing and integrating the software, as well as summarizing the project and accepting the results.</p>
+
+            <h4>Goals</h4>
+            <ul>
+                <li>Intersection Identification and Intelligent Splitting: Accurately identify key road intersections in the software design drawings through AI technology, and design reasonable and efficient splitting schemes to realize drawing division.</li>
+                <li>Batch Replacement of Drawing Frames: Automatically replace drawing frames in batch to simplify manual processing.</li>
+                <li>Text input automation: automate the text input process to reduce the time-consuming manual operation.</li>
+                <li>Batch printing: realize batch printing of design drawings to further improve work efficiency.</li>
+            </ul>
+
+            <h4>Results</h4>
+            <p><img src="CAD result.png" alt="In England(3)" /> </p>
+
+        </div>
+    </div>
+    <div class="bottom-block">
+        <h2 style="text-align: left;">Language and Tools</h2>
+        <p>
+            <img width="30%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV">
+
+            <br />
+            <img width="30%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter">
+            <br />
+            <img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub">
+            <img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code">
+        </p>
+
+        <h2 style="text-align: left;">Statistical Information</h2>
+        <img width="95%" src="https://github-readme-stats.vercel.app/api?username=QUST-SmartData&theme=ambient_gradient&show_icons=true&hide_border=true" alt="GitHub Stats">
+        <br />
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUST-SmartData&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=donut&theme=ambient_gradient" alt="Top Languages">
+
+        <h2 style="text-align: left;">Contact us</h2>
+        <p>Please contact the team leader <a href="mailto:03774@qust.edu.cn">Xin Wang (03774@qust.edu.cn)</a> with any questions or interest in collaboration.</p>
+        <br>
+        <img src="QRCode.png" width="300" alt="QR Code">
+    </div>
+</body>
+</html>
