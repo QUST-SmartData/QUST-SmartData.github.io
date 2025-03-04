@@ -99,7 +99,7 @@
             padding: 10px; /* 块内部的间距 */
             border: 1px solid #ccc; /* 添加边框以便区分 */
             background-color: #f9f9f9; /* 背景颜色 */
-            max-width: 33%;
+            max-width: 30%;
             /*text-align: center;*/ /* 文本居中对齐 */
         }
 
@@ -152,6 +152,13 @@
             .gallery-image {
                 width: 100%;
             } */
+            .gallery-image {
+                width: 40%; /* 修改宽度为40% */
+                height: auto;
+                object-fit: contain;
+                border-radius: 8px;
+                transition: transform 0.3s ease;
+            }
         }
     </style>
 </head>
