@@ -55,6 +55,19 @@
             .emoji {
                 margin-right: 10px;
             }
+        /* 头像样式 */
+        .avatar {
+            width: 100%; /* 头像宽度占满块的宽度 */
+            height: auto; /* 高度自动 */
+            margin-bottom: 10px; /* 头像下方的间距 */
+            border-radius: 50%; /* 圆形头像 */
+            object-fit: cover; /* 确保图片覆盖整个容器 */
+        }
+
+        /* 信息样式 */
+        .info {
+            text-align: center; /* 信息文本居中 */
+        }
     </style>
 </head>
 <body>
@@ -110,7 +123,7 @@
             </table>
     
             <br>
-            <table align="center" border="1" width="100%">
+<!--             <table align="center" border="1" width="100%">
                 <tr>
                     <td align="center">
                         <img src="team-members/Zhaoyan Zhong.jpg" style="width: 16.6667%; height: auto; margin: 5px; object-fit: contain;" alt="Zhaoyan Zhong">
@@ -133,7 +146,26 @@
                         <strong>Xiangxin Zhao</strong><br>Unsupervised learning, Self-perception
                     </td>
                 </tr>
-            </table>
+            </table> -->
+
+            <div class="block">
+                <img src="team-members/Zhaoyan Zhong.jpg" alt="Zhaoyan Zhong" class="avatar">
+                <div class="info">
+                    <strong>Zhaoyan Zhong</strong><br>IntelliSense, Big model
+                </div>
+            </div>
+            <div class="block">
+                <img src="team-members/Qijie Huang.jpg" alt="Qijie Huang" class="avatar">
+                <div class="info">
+                    <strong>Qijie Huang</strong><br>Spacial awareness
+                </div>
+            </div>
+            <div class="block">
+                 <img src="team-members/Xiangxin Zhao.jpg" alt="Xiangxin Zhao" class="avatar">
+                <div class="info">
+                    <strong>Qijie Huang</strong><br>Spacial awareness
+                </div>
+            </div>
     
             <br>
     
