@@ -29,7 +29,7 @@
             padding: 20px; /* 块内部的间距 */
             border: 1px solid #ccc; /* 添加边框以便区分 */
             background-color: #f9f9f9; /* 背景颜色 */
-            max-width: 33%;
+/*             max-width: 33%; */
             /*text-align: center;*/ /* 文本居中对齐 */
         }
 
@@ -92,7 +92,25 @@
             gap: 10px;
 /*             justify-content: center; */
         }
-        
+        /* 设置每个头像块的样式 */
+        .blockavter {
+            flex: 1; /* 每个块占据相等的空间 */
+            margin: 0 10px; /* 块之间的间距 */
+            padding: 20px; /* 块内部的间距 */
+            border: 1px solid #ccc; /* 添加边框以便区分 */
+            background-color: #f9f9f9; /* 背景颜色 */
+            max-width: 33%;
+            /*text-align: center;*/ /* 文本居中对齐 */
+        }
+
+            /* 针对第一个和第三个块的特殊样式 */
+            .blockavter:first-child {
+                background-color: #e6f7ff; /* 第一个块的背景颜色 */
+            }
+
+            .blockavter:last-child {
+                background-color: #ffe6e6; /* 第三个块的背景颜色 */
+            }
         .gallery-image {
             width: 30%;
             height: auto;
@@ -225,19 +243,19 @@
             </table> -->
 
             <div class="containeravter">
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Zhaoyan Zhong.jpg" alt="Zhaoyan Zhong" class="avatar">
                     <div class="info">
                         <strong>Zhaoyan Zhong</strong><br>IntelliSense, Big model
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Qijie Huang.jpg" alt="Qijie Huang" class="avatar">
                     <div class="info">
                         <strong>Qijie Huang</strong><br>Spacial awareness
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Xiangxin Zhao.jpg" alt="Xiangxin Zhao" class="avatar">
                     <div class="info">
                         <strong>Xiangxin Zhao</strong><br>Unsupervised learning, Self-perception
@@ -249,19 +267,19 @@
             <br>
 
             <div class="containeravter">
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Xintao Mu.jpg" class="avatar">
                     <div class="info">
                         <strong>Xintao Mu</strong><br>Medicine AI application
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Yanxia Liu.jpg" class="avatar">
                     <div class="info">
                         <strong>Yanxia Liu</strong><br>Multi-scale 3D reconstruction
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Yingqi Zhang.jpg" class="avatar">
                     <div class="info">
                         <strong>Yingqi Zhang</strong><br>Latent space inversion
@@ -273,19 +291,19 @@
             <br>
 
             <div class="containeravter">
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Liguo Niu.jpg" class="avatar">
                     <div class="info">
                         <strong>Liguo Niu</strong><br>Super-resolution
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Xuefeng Gui.jpg" class="avatar">
                     <div class="info">
                         <strong>Xuefeng Gui</strong><br>Industrial AI application
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Shuyang Fan.jpg" class="avatar">
                     <div class="info">
                         <strong>Shuyang Fan</strong><br>Big model
@@ -352,19 +370,19 @@
             Graduate students of 2024
 
             <div class="containeravter">
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Jia Wang.jpg" class="avatar">
                     <div class="info">
                         <strong>Jia Wang</strong>
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Jiawei Li.jpg" class="avatar">
                     <div class="info">
                         <strong>Jiawei Li</strong>
                     </div>
                 </div>
-                <div class="block">
+                <div class="blockavter">
                     <img src="team-members/Jialu Chen.jpg" class="avatar">
                     <div class="info">
                         <strong>Jialu Chen</strong>
@@ -372,13 +390,13 @@
                 </div>
             </div>
             <div class="containeravter">
-                <div class="block" style="text-align: center;">
+                <div class="blockavter" style="text-align: center;">
                     <img src="team-members/Lidong Zhou.jpg" style="width: 50%; height: auto; margin: 5px; object-fit: contain;" class="avatar">
                     <div class="info">
                         <strong>Lidong Zhou</strong>
                     </div>
                 </div>
-                <div class="block" style="text-align: center;">
+                <div class="blockavter" style="text-align: center;">
                     <img src="team-members/Yang Li.jpg" style="width: 50%; height: auto; margin: 5px; object-fit: contain;" class="avatar">
                     <div class="info">
                         <strong>Yang Li</strong>
@@ -419,13 +437,13 @@
 
 
             <div class="containeravter">
-                <div class="block" style="text-align: center;">
+                <div class="blockavter" style="text-align: center;">
                     <img src="team-members/Ruixi Jing.jpg" style="width: 50%; height: auto; margin: 5px; object-fit: contain;" class="avatar">
                     <div class="info">
                         <strong>Ruixi Jing</strong>
                     </div>
                 </div>
-                <div class="block" style="text-align: center;">
+                <div class="blockavter" style="text-align: center;">
                     <img src="team-members/Fuzhi Wan.jpg" style="width: 50%; height: auto; margin: 5px; object-fit: contain;" class="avatar">
                     <div class="info">
                         <strong>Fuzhi Wan</strong>
