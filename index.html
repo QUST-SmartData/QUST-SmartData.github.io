@@ -153,6 +153,46 @@
                 padding-top: 22%; /* 设置宽高比为 2:1 */
             }
         }
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .image-container img {
+            width: 45%;
+            height: auto;
+            margin: 5px;
+            object-fit: cover;
+            cursor: pointer; /* 添加鼠标悬停样式 */
+            transition: transform 0.3s ease; /* 添加平滑过渡效果 */
+        }
+        .image-container img:hover {
+            transform: scale(1.05); /* 鼠标悬停时轻微放大 */
+        }
+        .modal {
+            display: none; /* 默认隐藏 */
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.7); /* 半透明背景 */
+        }
+        .modal-content {
+            margin: 10% auto;
+            padding: 20px;
+            width: 80%;
+            max-width: 700px; /* 最大宽度 */
+        }
+        .close {
+            color: #f1f1f1;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -630,11 +670,21 @@
             <p><strong>Introduction</strong>: This project uses the mouse femur as a model, and systematically studies the degradation of bone cement, new bone growth, and changes in bone tissue structure at different time points (one month and three months) by implanting bone cement of different materials. Through data visualization and multi-parameter analysis, including pore size distribution, coordination number, shape factor, and tortuosity, the dynamic changes of bone cement implants in the in vivo environment and their impact on bone tissue repair are revealed.</p>
             <h4>Results</h4>
             <p>The images show the changes in pore distribution one month (left) and three months (right) after bone cement implantation.</p>
-            <div style="display: flex; justify-content: space-between; align-items: center;">
+<!--             <div style="display: flex; justify-content: space-between; align-items: center;">
                 <img src="project result/one month.png" alt="one month" style="width: 45%; height: auto; margin: 5px; object-fit: cover;" />
                 <img src="project result/three month.png" alt="three month" style="width: 45%; height: auto; margin: 5px; object-fit: cover;" />
+            </div> -->
+            <div class="image-container">
+                <img src="project result/one month.png" alt="one month" onclick="openModal(this.src)" />
+                <img src="project result/three month.png" alt="three month" onclick="openModal(this.src)" />
             </div>
-            
+            <div id="myModal" class="modal">
+                <div class="modal-content">
+                    <span class="close" onclick="closeModal()">&times;</span>
+                    <img id="modalImage" src="" alt="Zoomed Image" style="width: 100%; height: auto;" />
+                </div>
+            </div>
+
             
             <h3>Research on spatial structure reconstruction of 3D core fracture model</h3>
             <p><strong>Introduction</strong>: This project aims to develop advanced techniques for the reconstruction of three-dimensional rock fracture models based on extracted information from real fracture characteristics. By integrating statistical analysis, numerical simulation, and advanced imaging techniques, we strive to create realistic fracture models that can accurately represent the spatial distribution, aperture variation, and morphological features of natural fractures. The research focuses on several key aspects, including the regeneration of fracture aperture based on Gaussian distribution approximations, the reconstruction of fracture morphology considering real dimensions, orientation, and anisotropy, and the fusion of regenerated fractures to form coherent three-dimensional networks.</p>
@@ -643,6 +693,20 @@
                 <img src="project result/reconstruction results1.png" alt="reconstruction results1" style="width: 45%; height: auto; margin: 5px; object-fit: cover;" />
                 <img src="project result/reconstruction results2.png" alt="reconstruction results2" style="width: 45%; height: auto; margin: 5px; object-fit: cover;" />
             </div>
+
+            <script>
+                function openModal(imageSrc) {
+                    var modal = document.getElementById("myModal");
+                    var modalImage = document.getElementById("modalImage");
+                    modalImage.src = imageSrc; // 设置放大图片的源
+                    modal.style.display = "block"; // 显示模态框
+                }
+            
+                function closeModal() {
+                    var modal = document.getElementById("myModal");
+                    modal.style.display = "none"; // 隐藏模态框
+                }
+            </script>
 
         </div>
     </div>
