@@ -748,6 +748,19 @@
             </div>
             <br>
 
+            <h3>Gallbladder ultrasound image classification</h3>
+            <p><strong>Introduction</strong>: AI has made great progress in the field of medical image analysis, providing new possibilities for the automated diagnosis of gallbladder cancer. Deep learning methods, especially those based on convolutional neural networks (CNNs), have shown excellent performance in gallbladder cancer detection, and can automatically extract complex features in medical images and identify subtle lesion patterns, thereby improving the accuracy of diagnosis. Researchers have proposed a variety of deep learning-based gallbladder cancer detection methods, such as the region selection network combined with a multi-scale second-order pooling classifier (MS-SoP), the application of Mask R-CNN in gallstone detection, and a gallbladder detection method combining YOLO and Faster R-CNN. These methods have made positive progress in optimizing detection boundaries and improving classification accuracy. However, current research still faces many challenges, including the scarcity of datasets, the problem of co-optimization of target detection and classification networks, and the impact of low quality and noise interference of ultrasound images on the model. To address these issues, the research team collected and annotated a dataset of 368 ultrasound images to make up for the lack of data. In addition, the team conducted a systematic comparative analysis of existing target detection methods and proposed a structure-aware curriculum learning strategy, which combines relative total variation and label smoothing techniques to gradually train the model from simple structures to complex textures, making it more focused on key structural features and improving the robustness and generalization ability of gallbladder cancer detection.</p>
+            <p><strong>Collaborating organization</strong>: Qilu Hospital of Shandong University</p>
+            <h4>Method Architecture</h4>
+            <div class="image-container">
+                <img src="project result/p6 method.jpg" style="width: 100%; height: auto; margin: 5px; object-fit: cover;" alt="p5 methods" onclick="openModal(this.src)" />
+            </div>
+            <h4>Diagnosis result</h4>
+            <div class="image-container">
+                <img src="project result/p6 result.jpg" style="width: 100%; height: auto; margin: 5px; object-fit: cover;" alt="p5 result" onclick="openModal(this.src)" />
+            </div>
+            <br>
+
             <div id="myModal" class="modal">
                 <div class="modal-content">
                     <span class="close" onclick="closeModal()">&times;</span>
