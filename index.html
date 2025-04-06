@@ -586,9 +586,29 @@
                 </a> -->
             </div>
 
-             <h2 style="text-align: left;">Case Study</h2>
-             <h3><a href="https://github.com/QUST-SmartData/ClusterGAN">Latent Control</a></h3>
-             <p><strong>Introduction</strong>: Using ClusterGAN for latent space clustering of samples enables the controlled generation of images with different properties as needed. This method combines mixed one-hot encoded variables and continuous latent variables to sample the latent space and utilizes an inverse network to map data into the latent space.</p>
+            <h2 style="text-align: left;">Case Study</h2>
+            <h3><a href="https://github.com/QUST-SmartData/ClusterGAN">Latent Control</a></h3>
+            <p><strong>Introduction</strong>: Using ClusterGAN for latent space clustering of samples enables the controlled generation of images with different properties as needed. This method combines mixed one-hot encoded variables and continuous latent variables to sample the latent space and utilizes an inverse network to map data into the latent space.</p>
+             
+             
+            <h3>Quadruped Robot</h3>
+            <div class="image-container">
+                <img src="project result/robot.gif" style="width: 100%; height: auto; margin: 5px; object-fit: cover;" alt="p5 result" onclick="openModal(this.src)" />
+            </div>
+
+            <script>
+                function openModal(imageSrc) {
+                    var modal = document.getElementById("myModal");
+                    var modalImage = document.getElementById("modalImage");
+                    modalImage.src = imageSrc; // 设置放大图片的源
+                    modal.style.display = "block"; // 显示模态框
+                }
+            
+                function closeModal() {
+                    var modal = document.getElementById("myModal");
+                    modal.style.display = "none"; // 隐藏模态框
+                }
+            </script>
         </div>
 
         <!-- 第二个块 -->
