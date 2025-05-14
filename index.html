@@ -197,13 +197,23 @@
             font-weight: bold;
             cursor: pointer;
         }
+        /* 新增样式，将访问展示图像悬浮在右上角 */
+        .flag-counter {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 999;
+        }
     </style>
 </head>
 <body>
+    <!-- 新增的访问展示图像元素 -->
+    <div class="flag-counter">
+        <a href="http://s01.flagcounter.com/more/fOX"><img src="https://s01.flagcounter.com/map/fOX/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+    </div>
     <div class="top-block">
         <h1>SmartData</h1>
         <img src="logo.jpg" style="width: 50%; height: auto; margin: 5px; object-fit: contain;"/>
-        <a href="https://info.flagcounter.com/Rnmf"><img src="https://s01.flagcounter.com/map/Rnmf/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
         <br>
         Welcome to our GitHub team homepage!
         <br>
