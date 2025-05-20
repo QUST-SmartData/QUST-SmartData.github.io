@@ -197,32 +197,37 @@
             font-weight: bold;
             cursor: pointer;
         }
-        /* 访问统计样式 - 紧凑美化版 */
+        /* 访问统计样式 - 紧凑美化版（响应式一行显示且居中） */
         .flag-counter {
             position: relative;
             text-align: center;
-            padding: 8px 0;  /* 减少上下内边距 */
+            padding: 8px 0;
             margin-bottom: 15px;
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
-            border-radius: 6px;  /* 减小圆角半径 */
-            box-shadow: 0 1px 6px rgba(0,0,0,0.05);  /* 更柔和的阴影 */
+            background: #e4e8eb;
+            border-radius: 6px;
+            box-shadow: 0 1px 6px rgba(0,0,0,0.05);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .flag-counter-inner {
+            display: inline-block; /* 使内容宽度自适应 */
+            white-space: nowrap; /* 防止换行 */
         }
         
         .flag-counter span {
             display: inline-block;
-            margin: 0 10px;  /* 减少左右外边距 */
-            padding: 6px 12px;  /* 减少内边距 */
+            margin: 0 8px;
+            padding: 5px 10px;
             background: white;
-            border-radius: 16px;  /* 减小圆角半径 */
+            border-radius: 16px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            font-size: 13px;  /* 减小字体大小 */
+            font-size: 13px;
             color: #555;
-            transition: all 0.2s ease;  /* 缩短动画时间 */
+            transition: all 0.2s ease;
         }
         
         .flag-counter span:hover {
-            transform: translateY(-1px);  /* 减小悬停上浮距离 */
+            transform: translateY(-1px);
             box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         }
         
@@ -230,10 +235,9 @@
         .flag-counter span#vercount_value_site_uv {
             color: #2c7be5;
             font-weight: bold;
-            font-size: 14px;  /* 减小强调字体大小 */
+            font-size: 14px;
         }
         
-        /* 更细的分隔线 */
         .flag-counter::before {
             content: "";
             position: absolute;
@@ -245,16 +249,34 @@
             background: linear-gradient(to right, transparent, #ddd, transparent);
         }
         
-        /* 响应式调整 */
+        /* 移动端调整 */
         @media (max-width: 600px) {
             .flag-counter {
-                padding: 6px 0;  /* 移动端更紧凑 */
+                padding: 6px 0;
+                text-align: center;
+                overflow-x: auto; /* 允许横向滚动 */
+                -webkit-overflow-scrolling: touch; /* iOS平滑滚动 */
             }
+            
+            .flag-counter::-webkit-scrollbar {
+                display: none; /* 隐藏滚动条 */
+            }
+            
+            .flag-counter-inner {
+                display: inline-block;
+                white-space: nowrap;
+                padding: 0 10px; /* 添加内边距 */
+            }
+            
             .flag-counter span {
-                display: block;
-                margin: 5px auto;  /* 减少块间距 */
-                max-width: 85%;
-                padding: 5px 10px;
+                margin: 0 5px;
+                padding: 4px 8px;
+                font-size: 12px;
+            }
+            
+            .flag-counter span#vercount_value_site_pv,
+            .flag-counter span#vercount_value_site_uv {
+                font-size: 13px;
             }
         }
     </style>
@@ -262,9 +284,11 @@
 <body>
     <!-- 新增的访问展示元素 -->
     <div class="flag-counter">
-        <script defer src="https://cn.vercount.one/js"></script>
-        <span>📊 全站访问 <span id="vercount_value_site_pv">0</span> 次</span>
-        <span>👥 访客总数 <span id="vercount_value_site_uv">0</span> 人</span>
+        <div class="flag-counter-inner">
+            <script defer src="https://cn.vercount.one/js"></script>
+            <span>📊 全站访问 <span id="vercount_value_site_pv">0</span> 次</span>
+            <span>👥 访客总数 <span id="vercount_value_site_uv">0</span> 人</span>
+        </div>
     </div>
     <div class="top-block">
         <h1>SmartData</h1>
