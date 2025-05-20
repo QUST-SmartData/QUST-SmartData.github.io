@@ -197,61 +197,64 @@
             font-weight: bold;
             cursor: pointer;
         }
-        /* 访问统计样式 - 美化版 */
+        /* 访问统计样式 - 紧凑美化版 */
         .flag-counter {
             position: relative;
             text-align: center;
-            padding: 12px 0;
-            margin-bottom: 20px;
+            padding: 8px 0;  /* 减少上下内边距 */
+            margin-bottom: 15px;
             background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-radius: 6px;  /* 减小圆角半径 */
+            box-shadow: 0 1px 6px rgba(0,0,0,0.05);  /* 更柔和的阴影 */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
         
         .flag-counter span {
             display: inline-block;
-            margin: 0 15px;
-            padding: 8px 15px;
+            margin: 0 10px;  /* 减少左右外边距 */
+            padding: 6px 12px;  /* 减少内边距 */
             background: white;
-            border-radius: 20px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            font-size: 14px;
+            border-radius: 16px;  /* 减小圆角半径 */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            font-size: 13px;  /* 减小字体大小 */
             color: #555;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;  /* 缩短动画时间 */
         }
         
         .flag-counter span:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+            transform: translateY(-1px);  /* 减小悬停上浮距离 */
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         }
         
-        .flag-counter span#vercount_value_page_pv,
         .flag-counter span#vercount_value_site_pv,
         .flag-counter span#vercount_value_site_uv {
             color: #2c7be5;
             font-weight: bold;
-            font-size: 16px;
+            font-size: 14px;  /* 减小强调字体大小 */
         }
         
-        /* 添加分隔线装饰 */
+        /* 更细的分隔线 */
         .flag-counter::before {
             content: "";
             position: absolute;
             top: 0;
             left: 50%;
             transform: translateX(-50%);
-            width: 80%;
-            height: 1px;
+            width: 85%;
+            height: 0.5px;
             background: linear-gradient(to right, transparent, #ddd, transparent);
         }
         
         /* 响应式调整 */
         @media (max-width: 600px) {
+            .flag-counter {
+                padding: 6px 0;  /* 移动端更紧凑 */
+            }
             .flag-counter span {
                 display: block;
-                margin: 8px auto;
-                max-width: 80%;
+                margin: 5px auto;  /* 减少块间距 */
+                max-width: 85%;
+                padding: 5px 10px;
             }
         }
     </style>
@@ -260,8 +263,7 @@
     <!-- 新增的访问展示元素 -->
     <div class="flag-counter">
         <script defer src="https://cn.vercount.one/js"></script>
-        <span>📊 本文阅读 <span id="vercount_value_page_pv">0</span> 次</span>
-        <span>👀 全站访问 <span id="vercount_value_site_pv">0</span> 次</span>
+        <span>📊 全站访问 <span id="vercount_value_site_pv">0</span> 次</span>
         <span>👥 访客总数 <span id="vercount_value_site_uv">0</span> 人</span>
     </div>
     <div class="top-block">
