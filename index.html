@@ -197,18 +197,19 @@
             font-weight: bold;
             cursor: pointer;
         }
-        /* 新增样式，将访问展示图像悬浮在右上角 */
+        /* 新增样式，将访问展示在页面最上面 */
         .flag-counter {
-            position: absolute;
-            top: 10px;
-            right: 20px;
+            position: relative;
         }
     </style>
 </head>
 <body>
-    <!-- 新增的访问展示图像元素 -->
+    <!-- 新增的访问展示元素 -->
     <div class="flag-counter">
-        <a href="http://s01.flagcounter.com/more/fOX"><img src="https://s01.flagcounter.com/map/fOX/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+        <script defer src="https://cn.vercount.one/js"></script>
+        本文总阅读量 <span id="vercount_value_page_pv">Loading</span> 次
+        本站总访问量 <span id="vercount_value_site_pv">Loading</span> 次
+        本站总访客数 <span id="vercount_value_site_uv">Loading</span> 人
     </div>
     <div class="top-block">
         <h1>SmartData</h1>
