@@ -197,13 +197,62 @@
             font-weight: bold;
             cursor: pointer;
         }
-        /* 新增样式，将访问展示在页面最上面 */
+        /* 访问统计样式 - 美化版 */
         .flag-counter {
             position: relative;
-            text-align: center; 
-            padding: 10px; 
-            background: #f5f5f5; 
-            margin-bottom: 10px;
+            text-align: center;
+            padding: 12px 0;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .flag-counter span {
+            display: inline-block;
+            margin: 0 15px;
+            padding: 8px 15px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            font-size: 14px;
+            color: #555;
+            transition: all 0.3s ease;
+        }
+        
+        .flag-counter span:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        
+        .flag-counter span#vercount_value_page_pv,
+        .flag-counter span#vercount_value_site_pv,
+        .flag-counter span#vercount_value_site_uv {
+            color: #2c7be5;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        
+        /* 添加分隔线装饰 */
+        .flag-counter::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #ddd, transparent);
+        }
+        
+        /* 响应式调整 */
+        @media (max-width: 600px) {
+            .flag-counter span {
+                display: block;
+                margin: 8px auto;
+                max-width: 80%;
+            }
         }
     </style>
 </head>
@@ -211,9 +260,9 @@
     <!-- 新增的访问展示元素 -->
     <div class="flag-counter">
         <script defer src="https://cn.vercount.one/js"></script>
-        本文总阅读量 <span id="vercount_value_page_pv">Loading</span> 次
-        本站总访问量 <span id="vercount_value_site_pv">Loading</span> 次
-        本站总访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <span>📊 本文阅读 <span id="vercount_value_page_pv">0</span> 次</span>
+        <span>👀 全站访问 <span id="vercount_value_site_pv">0</span> 次</span>
+        <span>👥 访客总数 <span id="vercount_value_site_uv">0</span> 人</span>
     </div>
     <div class="top-block">
         <h1>SmartData</h1>
